@@ -1,0 +1,6422 @@
+{
+  "trace" : {
+    "id" : "0",
+    "name" : "test-input-trace",
+    "path" : "/test-input-trace",
+    "data.raw" : { },
+    "eventLog" : {
+      "misc" : {
+        "type" : "ios-battery-level"
+      }
+    },
+    "file" : {
+      "extension" : "db",
+      "name" : "knowledgeC.db"
+    }
+  },
+  "children" : [
+    {
+      "trace" : {
+        "id" : "0-0",
+        "name" : "battery-event-1872",
+        "path" : "/test-input-trace/battery-event-1872",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-03T14:52Z[UTC]",
+          "generatedOn" : "2022-02-03T14:52:01Z[UTC]",
+          "id" : "408C759F-49D5-40C6-882C-B8A8CFB7069C",
+          "index" : 1872,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-03T14:51Z[UTC]",
+          "text" : "53.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-1",
+        "name" : "battery-event-1895",
+        "path" : "/test-input-trace/battery-event-1895",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-03T14:54:56Z[UTC]",
+          "generatedOn" : "2022-02-03T14:54:58Z[UTC]",
+          "id" : "A8B0B355-233B-4FE4-B7AB-0A72ADEAE719",
+          "index" : 1895,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-03T14:52Z[UTC]",
+          "text" : "52.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-2",
+        "name" : "battery-event-1900",
+        "path" : "/test-input-trace/battery-event-1900",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-03T14:56:40Z[UTC]",
+          "generatedOn" : "2022-02-03T14:56:42Z[UTC]",
+          "id" : "2010E9F5-0368-42EE-AC14-568775CE6282",
+          "index" : 1900,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-03T14:54:56Z[UTC]",
+          "text" : "51.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-3",
+        "name" : "battery-event-1928",
+        "path" : "/test-input-trace/battery-event-1928",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-03T14:59:52Z[UTC]",
+          "generatedOn" : "2022-02-03T14:59:55Z[UTC]",
+          "id" : "F2F910C0-2368-483B-8165-A3BB79C99228",
+          "index" : 1928,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-03T14:56:40Z[UTC]",
+          "text" : "50.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-4",
+        "name" : "battery-event-1970",
+        "path" : "/test-input-trace/battery-event-1970",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-03T15:17:32Z[UTC]",
+          "generatedOn" : "2022-02-03T15:17:32Z[UTC]",
+          "id" : "96BA3D1E-A585-4B0E-B20C-1F1D87FFA4D8",
+          "index" : 1970,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-03T14:59:52Z[UTC]",
+          "text" : "49.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-5",
+        "name" : "battery-event-1976",
+        "path" : "/test-input-trace/battery-event-1976",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-03T15:19:56Z[UTC]",
+          "generatedOn" : "2022-02-03T15:19:56Z[UTC]",
+          "id" : "E1166ED0-1569-4F99-9E11-EE51786B4FA5",
+          "index" : 1976,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-03T15:17:32Z[UTC]",
+          "text" : "48.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-6",
+        "name" : "battery-event-1989",
+        "path" : "/test-input-trace/battery-event-1989",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-03T15:22:40Z[UTC]",
+          "generatedOn" : "2022-02-03T15:22:40Z[UTC]",
+          "id" : "ED181F06-C79E-4B23-9DEF-75F2E73D554C",
+          "index" : 1989,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-03T15:19:56Z[UTC]",
+          "text" : "47.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-7",
+        "name" : "battery-event-2012",
+        "path" : "/test-input-trace/battery-event-2012",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-03T15:33:32Z[UTC]",
+          "generatedOn" : "2022-02-03T15:33:34Z[UTC]",
+          "id" : "CEAD09D1-BA19-4C21-8B9B-A3DC26A8343A",
+          "index" : 2012,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-03T15:22:40Z[UTC]",
+          "text" : "46.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-8",
+        "name" : "battery-event-2049",
+        "path" : "/test-input-trace/battery-event-2049",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-03T15:46:52Z[UTC]",
+          "generatedOn" : "2022-02-03T15:46:55Z[UTC]",
+          "id" : "42B1469B-E47E-4ED1-B011-3105A5FE088F",
+          "index" : 2049,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-03T15:33:32Z[UTC]",
+          "text" : "45.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-9",
+        "name" : "battery-event-2076",
+        "path" : "/test-input-trace/battery-event-2076",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-03T16:05:16Z[UTC]",
+          "generatedOn" : "2022-02-03T16:05:16Z[UTC]",
+          "id" : "52241310-AB78-49E0-A5BD-78B3BC3129F9",
+          "index" : 2076,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-03T15:46:52Z[UTC]",
+          "text" : "44.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-10",
+        "name" : "battery-event-2104",
+        "path" : "/test-input-trace/battery-event-2104",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-03T17:05:24Z[UTC]",
+          "generatedOn" : "2022-02-03T17:05:27Z[UTC]",
+          "id" : "F2723C98-4430-4885-A4BA-F34A5DC91201",
+          "index" : 2104,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-03T16:05:16Z[UTC]",
+          "text" : "43.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-11",
+        "name" : "battery-event-2122",
+        "path" : "/test-input-trace/battery-event-2122",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-03T19:02:56Z[UTC]",
+          "generatedOn" : "2022-02-03T19:02:59Z[UTC]",
+          "id" : "244FEA65-528F-4D3C-AC51-3BE5BA26603D",
+          "index" : 2122,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-03T17:05:24Z[UTC]",
+          "text" : "42.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-12",
+        "name" : "battery-event-2143",
+        "path" : "/test-input-trace/battery-event-2143",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-03T22:28Z[UTC]",
+          "generatedOn" : "2022-02-03T22:28:01Z[UTC]",
+          "id" : "7333A155-899B-489A-827E-242E40DC751C",
+          "index" : 2143,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-03T19:02:56Z[UTC]",
+          "text" : "41.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-13",
+        "name" : "battery-event-2152",
+        "path" : "/test-input-trace/battery-event-2152",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T01:11Z[UTC]",
+          "generatedOn" : "2022-02-04T01:11Z[UTC]",
+          "id" : "237CF513-CF9F-4D44-AC9F-3A20376F13B9",
+          "index" : 2152,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-03T22:28Z[UTC]",
+          "text" : "40.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-14",
+        "name" : "battery-event-2153",
+        "path" : "/test-input-trace/battery-event-2153",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T03:05:40Z[UTC]",
+          "generatedOn" : "2022-02-04T03:05:42Z[UTC]",
+          "id" : "5BF78DB0-A2D4-4239-BB9C-CA0363697432",
+          "index" : 2153,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T01:11Z[UTC]",
+          "text" : "39.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-15",
+        "name" : "battery-event-2154",
+        "path" : "/test-input-trace/battery-event-2154",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T04:41:08Z[UTC]",
+          "generatedOn" : "2022-02-04T04:41:09Z[UTC]",
+          "id" : "3B5A3A6A-B819-4A51-ACC7-F308EDFEC099",
+          "index" : 2154,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T03:05:40Z[UTC]",
+          "text" : "38.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-16",
+        "name" : "battery-event-2168",
+        "path" : "/test-input-trace/battery-event-2168",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T07:37:08Z[UTC]",
+          "generatedOn" : "2022-02-04T07:37:08Z[UTC]",
+          "id" : "A6A0DFAA-2347-4429-9165-63405FC4AAC1",
+          "index" : 2168,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T04:41:08Z[UTC]",
+          "text" : "37.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-17",
+        "name" : "battery-event-2170",
+        "path" : "/test-input-trace/battery-event-2170",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T08:22:52Z[UTC]",
+          "generatedOn" : "2022-02-04T08:22:54Z[UTC]",
+          "id" : "45D9BE4A-695D-4908-80E6-3EE5B2B65FA6",
+          "index" : 2170,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T07:37:08Z[UTC]",
+          "text" : "36.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-18",
+        "name" : "battery-event-2181",
+        "path" : "/test-input-trace/battery-event-2181",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T09:13:32Z[UTC]",
+          "generatedOn" : "2022-02-04T09:13:32Z[UTC]",
+          "id" : "EE7F3CBF-4944-4A6F-8C7B-113FE4A00C66",
+          "index" : 2181,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T08:22:52Z[UTC]",
+          "text" : "35.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-19",
+        "name" : "battery-event-2203",
+        "path" : "/test-input-trace/battery-event-2203",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T10:13:32Z[UTC]",
+          "generatedOn" : "2022-02-04T10:13:33Z[UTC]",
+          "id" : "7F7DA14D-2CDE-4815-AA4B-19F8668997A5",
+          "index" : 2203,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T09:13:32Z[UTC]",
+          "text" : "34.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-20",
+        "name" : "battery-event-2245",
+        "path" : "/test-input-trace/battery-event-2245",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T10:37:52Z[UTC]",
+          "generatedOn" : "2022-02-04T10:37:52Z[UTC]",
+          "id" : "8975060E-9F3E-46DF-A2F9-8BAFA58CF315",
+          "index" : 2245,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T10:13:32Z[UTC]",
+          "text" : "33.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-21",
+        "name" : "battery-event-2297",
+        "path" : "/test-input-trace/battery-event-2297",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T10:41:32Z[UTC]",
+          "generatedOn" : "2022-02-04T10:41:34Z[UTC]",
+          "id" : "42375195-2AC4-4D1B-A300-1D0601C606C2",
+          "index" : 2297,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T10:37:52Z[UTC]",
+          "text" : "32.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-22",
+        "name" : "battery-event-2346",
+        "path" : "/test-input-trace/battery-event-2346",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T10:46:44Z[UTC]",
+          "generatedOn" : "2022-02-04T10:46:46Z[UTC]",
+          "id" : "E3790DEA-D536-48E6-BEBB-A6A519D06E36",
+          "index" : 2346,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T10:41:32Z[UTC]",
+          "text" : "31.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-23",
+        "name" : "battery-event-2360",
+        "path" : "/test-input-trace/battery-event-2360",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T11:02:24Z[UTC]",
+          "generatedOn" : "2022-02-04T11:02:27Z[UTC]",
+          "id" : "BF3D1BB2-BE9F-42BD-943C-1CD1C0F72B8C",
+          "index" : 2360,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T10:46:44Z[UTC]",
+          "text" : "30.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-24",
+        "name" : "battery-event-2361",
+        "path" : "/test-input-trace/battery-event-2361",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T11:03:32Z[UTC]",
+          "generatedOn" : "2022-02-04T11:03:34Z[UTC]",
+          "id" : "8A52C338-71F1-4C18-B19E-4D50D4998A18",
+          "index" : 2361,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T11:02:24Z[UTC]",
+          "text" : "29.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-25",
+        "name" : "battery-event-2368",
+        "path" : "/test-input-trace/battery-event-2368",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T11:05:16Z[UTC]",
+          "generatedOn" : "2022-02-04T11:05:17Z[UTC]",
+          "id" : "CCB10555-CD2A-4C95-A430-E65E66243E4F",
+          "index" : 2368,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T11:03:32Z[UTC]",
+          "text" : "27.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-26",
+        "name" : "battery-event-2453",
+        "path" : "/test-input-trace/battery-event-2453",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T12:20:24Z[UTC]",
+          "generatedOn" : "2022-02-04T12:20:25Z[UTC]",
+          "id" : "3D21A458-76B6-40C3-9A5F-00CFE95E929A",
+          "index" : 2453,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T11:05:16Z[UTC]",
+          "text" : "26.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-27",
+        "name" : "battery-event-2555",
+        "path" : "/test-input-trace/battery-event-2555",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:30:40Z[UTC]",
+          "generatedOn" : "2022-02-04T13:30:42Z[UTC]",
+          "id" : "9F6D9A12-E685-4327-8327-82AB3C0CAF43",
+          "index" : 2555,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:28:48Z[UTC]",
+          "text" : "25.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-28",
+        "name" : "battery-event-2564",
+        "path" : "/test-input-trace/battery-event-2564",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:31:44Z[UTC]",
+          "generatedOn" : "2022-02-04T13:31:45Z[UTC]",
+          "id" : "1E6D4617-ED19-4D14-9FAB-7EF7C738451F",
+          "index" : 2564,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:30:40Z[UTC]",
+          "text" : "26.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-29",
+        "name" : "battery-event-2566",
+        "path" : "/test-input-trace/battery-event-2566",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:32:24Z[UTC]",
+          "generatedOn" : "2022-02-04T13:32:27Z[UTC]",
+          "id" : "3A43931A-5CC7-4424-AFC9-A4CDC48AC02C",
+          "index" : 2566,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:31:44Z[UTC]",
+          "text" : "27.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-30",
+        "name" : "battery-event-2572",
+        "path" : "/test-input-trace/battery-event-2572",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:33:08Z[UTC]",
+          "generatedOn" : "2022-02-04T13:33:09Z[UTC]",
+          "id" : "B561401D-A203-4299-A8C9-5E482017DED8",
+          "index" : 2572,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:32:24Z[UTC]",
+          "text" : "28.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-31",
+        "name" : "battery-event-2576",
+        "path" : "/test-input-trace/battery-event-2576",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:33:48Z[UTC]",
+          "generatedOn" : "2022-02-04T13:33:51Z[UTC]",
+          "id" : "35C2719F-8BAF-42C4-A697-B4D3C48E5058",
+          "index" : 2576,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:33:08Z[UTC]",
+          "text" : "29.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-32",
+        "name" : "battery-event-2578",
+        "path" : "/test-input-trace/battery-event-2578",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:34:52Z[UTC]",
+          "generatedOn" : "2022-02-04T13:34:53Z[UTC]",
+          "id" : "B7DE6E37-6D76-4CD3-A0FF-21BD02E3CA4F",
+          "index" : 2578,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:33:48Z[UTC]",
+          "text" : "30.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-33",
+        "name" : "battery-event-2582",
+        "path" : "/test-input-trace/battery-event-2582",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:35:32Z[UTC]",
+          "generatedOn" : "2022-02-04T13:35:35Z[UTC]",
+          "id" : "0B14508E-FA9C-4E33-AA87-6BE2B13F3F61",
+          "index" : 2582,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:34:52Z[UTC]",
+          "text" : "31.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-34",
+        "name" : "battery-event-2584",
+        "path" : "/test-input-trace/battery-event-2584",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:36:16Z[UTC]",
+          "generatedOn" : "2022-02-04T13:36:16Z[UTC]",
+          "id" : "56243C7E-ED12-48B6-9A98-D231EFAB6E79",
+          "index" : 2584,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:35:32Z[UTC]",
+          "text" : "32.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-35",
+        "name" : "battery-event-2588",
+        "path" : "/test-input-trace/battery-event-2588",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:36:56Z[UTC]",
+          "generatedOn" : "2022-02-04T13:36:58Z[UTC]",
+          "id" : "C42EE222-B45E-4587-97F6-0700E40E4C2F",
+          "index" : 2588,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:36:16Z[UTC]",
+          "text" : "33.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-36",
+        "name" : "battery-event-2594",
+        "path" : "/test-input-trace/battery-event-2594",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:37:36Z[UTC]",
+          "generatedOn" : "2022-02-04T13:37:39Z[UTC]",
+          "id" : "7D3BA5C0-8EE4-421C-979A-17240C68E8DC",
+          "index" : 2594,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:36:56Z[UTC]",
+          "text" : "34.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-37",
+        "name" : "battery-event-2595",
+        "path" : "/test-input-trace/battery-event-2595",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:38:20Z[UTC]",
+          "generatedOn" : "2022-02-04T13:38:21Z[UTC]",
+          "id" : "CC8D93FF-4B59-474C-ADA8-4C7209D5727A",
+          "index" : 2595,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:37:36Z[UTC]",
+          "text" : "35.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-38",
+        "name" : "battery-event-2627",
+        "path" : "/test-input-trace/battery-event-2627",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:39:20Z[UTC]",
+          "generatedOn" : "2022-02-04T13:39:23Z[UTC]",
+          "id" : "BC12B4E1-85DE-4342-919D-A389F4342208",
+          "index" : 2627,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:38:20Z[UTC]",
+          "text" : "36.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-39",
+        "name" : "battery-event-2631",
+        "path" : "/test-input-trace/battery-event-2631",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:40:04Z[UTC]",
+          "generatedOn" : "2022-02-04T13:40:05Z[UTC]",
+          "id" : "03AE44D3-0B99-437D-98A7-28D38DCC46CE",
+          "index" : 2631,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:39:20Z[UTC]",
+          "text" : "37.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-40",
+        "name" : "battery-event-2642",
+        "path" : "/test-input-trace/battery-event-2642",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:40:44Z[UTC]",
+          "generatedOn" : "2022-02-04T13:40:46Z[UTC]",
+          "id" : "5936F84A-723A-4C60-B14D-6E3E28F6FC3E",
+          "index" : 2642,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:40:04Z[UTC]",
+          "text" : "38.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-41",
+        "name" : "battery-event-2643",
+        "path" : "/test-input-trace/battery-event-2643",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:41:28Z[UTC]",
+          "generatedOn" : "2022-02-04T13:41:28Z[UTC]",
+          "id" : "3C2F0D9C-0719-4821-AD0B-F1A2AB331C1B",
+          "index" : 2643,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:40:44Z[UTC]",
+          "text" : "39.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-42",
+        "name" : "battery-event-2688",
+        "path" : "/test-input-trace/battery-event-2688",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:42:28Z[UTC]",
+          "generatedOn" : "2022-02-04T13:42:30Z[UTC]",
+          "id" : "9C9A7448-04A2-4848-9072-A8B88E6459C6",
+          "index" : 2688,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:41:28Z[UTC]",
+          "text" : "40.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-43",
+        "name" : "battery-event-2689",
+        "path" : "/test-input-trace/battery-event-2689",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:43:08Z[UTC]",
+          "generatedOn" : "2022-02-04T13:43:11Z[UTC]",
+          "id" : "DB853A28-3C2F-4442-8731-42E17E5B76BF",
+          "index" : 2689,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:42:28Z[UTC]",
+          "text" : "41.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-44",
+        "name" : "battery-event-2690",
+        "path" : "/test-input-trace/battery-event-2690",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:43:52Z[UTC]",
+          "generatedOn" : "2022-02-04T13:43:53Z[UTC]",
+          "id" : "6C9104A9-045F-4D0B-B62D-805F860EFBBF",
+          "index" : 2690,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:43:08Z[UTC]",
+          "text" : "42.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-45",
+        "name" : "battery-event-2691",
+        "path" : "/test-input-trace/battery-event-2691",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:44:32Z[UTC]",
+          "generatedOn" : "2022-02-04T13:44:34Z[UTC]",
+          "id" : "3F73FF9C-6ACC-4D36-BCD8-209CC85B584F",
+          "index" : 2691,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:43:52Z[UTC]",
+          "text" : "43.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-46",
+        "name" : "battery-event-2692",
+        "path" : "/test-input-trace/battery-event-2692",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:45:16Z[UTC]",
+          "generatedOn" : "2022-02-04T13:45:16Z[UTC]",
+          "id" : "16D7E019-AD14-4F15-9679-F880C944E30F",
+          "index" : 2692,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:44:32Z[UTC]",
+          "text" : "44.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-47",
+        "name" : "battery-event-2702",
+        "path" : "/test-input-trace/battery-event-2702",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:45:56Z[UTC]",
+          "generatedOn" : "2022-02-04T13:45:57Z[UTC]",
+          "id" : "BA3F2F0B-EFBA-49A0-93E8-44E5F278FDE1",
+          "index" : 2702,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:45:16Z[UTC]",
+          "text" : "45.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-48",
+        "name" : "battery-event-2703",
+        "path" : "/test-input-trace/battery-event-2703",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:46:36Z[UTC]",
+          "generatedOn" : "2022-02-04T13:46:39Z[UTC]",
+          "id" : "03676B80-B328-43C2-B2FD-68707E9F69C2",
+          "index" : 2703,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:45:56Z[UTC]",
+          "text" : "46.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-49",
+        "name" : "battery-event-2704",
+        "path" : "/test-input-trace/battery-event-2704",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:47:20Z[UTC]",
+          "generatedOn" : "2022-02-04T13:47:20Z[UTC]",
+          "id" : "9580EFE3-8616-4269-90CA-62226B35DB3C",
+          "index" : 2704,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:46:36Z[UTC]",
+          "text" : "47.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-50",
+        "name" : "battery-event-2705",
+        "path" : "/test-input-trace/battery-event-2705",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:48Z[UTC]",
+          "generatedOn" : "2022-02-04T13:48:02Z[UTC]",
+          "id" : "E376FF6F-9BA2-4AE1-A6AA-799B35A17E27",
+          "index" : 2705,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:47:20Z[UTC]",
+          "text" : "48.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-51",
+        "name" : "battery-event-2706",
+        "path" : "/test-input-trace/battery-event-2706",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:48:40Z[UTC]",
+          "generatedOn" : "2022-02-04T13:48:43Z[UTC]",
+          "id" : "81B906DB-E4D9-4C2B-B850-2E591E2DC2E3",
+          "index" : 2706,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:48Z[UTC]",
+          "text" : "49.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-52",
+        "name" : "battery-event-2707",
+        "path" : "/test-input-trace/battery-event-2707",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:49:24Z[UTC]",
+          "generatedOn" : "2022-02-04T13:49:25Z[UTC]",
+          "id" : "BB65C700-D2BF-4B45-8603-009CBD11899F",
+          "index" : 2707,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:48:40Z[UTC]",
+          "text" : "50.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-53",
+        "name" : "battery-event-2708",
+        "path" : "/test-input-trace/battery-event-2708",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:50:24Z[UTC]",
+          "generatedOn" : "2022-02-04T13:50:27Z[UTC]",
+          "id" : "3D8D65BE-01B7-470B-A8FC-75B0B5D8BF95",
+          "index" : 2708,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:49:24Z[UTC]",
+          "text" : "51.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-54",
+        "name" : "battery-event-2709",
+        "path" : "/test-input-trace/battery-event-2709",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:51:08Z[UTC]",
+          "generatedOn" : "2022-02-04T13:51:09Z[UTC]",
+          "id" : "5999738D-8E36-4759-93D5-07CC4457CFD4",
+          "index" : 2709,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:50:24Z[UTC]",
+          "text" : "52.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-55",
+        "name" : "battery-event-2710",
+        "path" : "/test-input-trace/battery-event-2710",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:51:48Z[UTC]",
+          "generatedOn" : "2022-02-04T13:51:50Z[UTC]",
+          "id" : "5F68D35B-36BC-49CC-91FA-E73739A064B2",
+          "index" : 2710,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:51:08Z[UTC]",
+          "text" : "53.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-56",
+        "name" : "battery-event-2711",
+        "path" : "/test-input-trace/battery-event-2711",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:52:32Z[UTC]",
+          "generatedOn" : "2022-02-04T13:52:32Z[UTC]",
+          "id" : "1C291701-B95D-4746-B4E6-56D940157BAE",
+          "index" : 2711,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:51:48Z[UTC]",
+          "text" : "54.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-57",
+        "name" : "battery-event-2712",
+        "path" : "/test-input-trace/battery-event-2712",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:53:12Z[UTC]",
+          "generatedOn" : "2022-02-04T13:53:13Z[UTC]",
+          "id" : "E22B2817-EEEC-4D3A-AB49-2947B356143F",
+          "index" : 2712,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:52:32Z[UTC]",
+          "text" : "55.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-58",
+        "name" : "battery-event-2713",
+        "path" : "/test-input-trace/battery-event-2713",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:53:52Z[UTC]",
+          "generatedOn" : "2022-02-04T13:53:55Z[UTC]",
+          "id" : "224AAC7F-D2E6-46A4-B5F0-06109FFAD47E",
+          "index" : 2713,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:53:12Z[UTC]",
+          "text" : "56.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-59",
+        "name" : "battery-event-2716",
+        "path" : "/test-input-trace/battery-event-2716",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:54:56Z[UTC]",
+          "generatedOn" : "2022-02-04T13:54:57Z[UTC]",
+          "id" : "6E556A10-8855-4589-B769-3E3FD0CAA954",
+          "index" : 2716,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:53:52Z[UTC]",
+          "text" : "57.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-60",
+        "name" : "battery-event-2717",
+        "path" : "/test-input-trace/battery-event-2717",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:55:36Z[UTC]",
+          "generatedOn" : "2022-02-04T13:55:38Z[UTC]",
+          "id" : "A2571AE9-1DC6-491D-A654-A2BBDAC9DE0A",
+          "index" : 2717,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:54:56Z[UTC]",
+          "text" : "58.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-61",
+        "name" : "battery-event-2718",
+        "path" : "/test-input-trace/battery-event-2718",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:56:20Z[UTC]",
+          "generatedOn" : "2022-02-04T13:56:20Z[UTC]",
+          "id" : "0510C0F4-2BDF-48D8-9773-D9E96F72C01C",
+          "index" : 2718,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:55:36Z[UTC]",
+          "text" : "59.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-62",
+        "name" : "battery-event-2719",
+        "path" : "/test-input-trace/battery-event-2719",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:57Z[UTC]",
+          "generatedOn" : "2022-02-04T13:57:01Z[UTC]",
+          "id" : "1E140AC3-B560-438C-A837-A519CE324374",
+          "index" : 2719,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:56:20Z[UTC]",
+          "text" : "60.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-63",
+        "name" : "battery-event-2720",
+        "path" : "/test-input-trace/battery-event-2720",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:58:04Z[UTC]",
+          "generatedOn" : "2022-02-04T13:58:04Z[UTC]",
+          "id" : "6F38B4A1-3960-4361-83B0-09B8AEC905F5",
+          "index" : 2720,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:57Z[UTC]",
+          "text" : "61.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-64",
+        "name" : "battery-event-2721",
+        "path" : "/test-input-trace/battery-event-2721",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:58:44Z[UTC]",
+          "generatedOn" : "2022-02-04T13:58:45Z[UTC]",
+          "id" : "131774B0-5F32-463A-8199-4AF729BAC30D",
+          "index" : 2721,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:58:04Z[UTC]",
+          "text" : "62.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-65",
+        "name" : "battery-event-2722",
+        "path" : "/test-input-trace/battery-event-2722",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T13:59:24Z[UTC]",
+          "generatedOn" : "2022-02-04T13:59:27Z[UTC]",
+          "id" : "45E0E4EE-8232-44B5-9EEB-211DAC61D0E4",
+          "index" : 2722,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:58:44Z[UTC]",
+          "text" : "63.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-66",
+        "name" : "battery-event-2737",
+        "path" : "/test-input-trace/battery-event-2737",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:00:28Z[UTC]",
+          "generatedOn" : "2022-02-04T14:00:29Z[UTC]",
+          "id" : "0BA65C8D-AA34-4D22-A2C6-972FEF680788",
+          "index" : 2737,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T13:59:24Z[UTC]",
+          "text" : "64.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-67",
+        "name" : "battery-event-2738",
+        "path" : "/test-input-trace/battery-event-2738",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:01:08Z[UTC]",
+          "generatedOn" : "2022-02-04T14:01:10Z[UTC]",
+          "id" : "B85C01B2-C58D-46A9-A2CD-12BC9AC17E43",
+          "index" : 2738,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:00:28Z[UTC]",
+          "text" : "65.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-68",
+        "name" : "battery-event-2739",
+        "path" : "/test-input-trace/battery-event-2739",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:02:12Z[UTC]",
+          "generatedOn" : "2022-02-04T14:02:13Z[UTC]",
+          "id" : "7AD173CF-1DF0-47BB-81C6-641E59F5B316",
+          "index" : 2739,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:01:08Z[UTC]",
+          "text" : "66.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-69",
+        "name" : "battery-event-2740",
+        "path" : "/test-input-trace/battery-event-2740",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:02:52Z[UTC]",
+          "generatedOn" : "2022-02-04T14:02:54Z[UTC]",
+          "id" : "B76DD7A2-1976-4650-B2C2-C591E38E2AAE",
+          "index" : 2740,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:02:12Z[UTC]",
+          "text" : "67.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-70",
+        "name" : "battery-event-2741",
+        "path" : "/test-input-trace/battery-event-2741",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:03:56Z[UTC]",
+          "generatedOn" : "2022-02-04T14:03:56Z[UTC]",
+          "id" : "28868EB0-261D-4A6E-A9CE-D9E30EE7438C",
+          "index" : 2741,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:02:52Z[UTC]",
+          "text" : "68.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-71",
+        "name" : "battery-event-2742",
+        "path" : "/test-input-trace/battery-event-2742",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:04:36Z[UTC]",
+          "generatedOn" : "2022-02-04T14:04:38Z[UTC]",
+          "id" : "91E9785D-E97C-48F1-8481-AEF74804FCF1",
+          "index" : 2742,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:03:56Z[UTC]",
+          "text" : "69.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-72",
+        "name" : "battery-event-2743",
+        "path" : "/test-input-trace/battery-event-2743",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:05:40Z[UTC]",
+          "generatedOn" : "2022-02-04T14:05:40Z[UTC]",
+          "id" : "65B306A6-8055-4887-BDBF-AB2394D70FD3",
+          "index" : 2743,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:04:36Z[UTC]",
+          "text" : "70.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-73",
+        "name" : "battery-event-2744",
+        "path" : "/test-input-trace/battery-event-2744",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:06:20Z[UTC]",
+          "generatedOn" : "2022-02-04T14:06:22Z[UTC]",
+          "id" : "C4EBA756-705A-4893-82C7-93E4EF283C73",
+          "index" : 2744,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:05:40Z[UTC]",
+          "text" : "71.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-74",
+        "name" : "battery-event-2745",
+        "path" : "/test-input-trace/battery-event-2745",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:07:24Z[UTC]",
+          "generatedOn" : "2022-02-04T14:07:24Z[UTC]",
+          "id" : "5376EF36-51ED-470C-8852-1E1D6B947CFE",
+          "index" : 2745,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:06:20Z[UTC]",
+          "text" : "72.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-75",
+        "name" : "battery-event-2746",
+        "path" : "/test-input-trace/battery-event-2746",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:08:04Z[UTC]",
+          "generatedOn" : "2022-02-04T14:08:05Z[UTC]",
+          "id" : "B1FF7BDF-E446-46C1-820A-1F5AA364A6E3",
+          "index" : 2746,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:07:24Z[UTC]",
+          "text" : "73.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-76",
+        "name" : "battery-event-2748",
+        "path" : "/test-input-trace/battery-event-2748",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:09:08Z[UTC]",
+          "generatedOn" : "2022-02-04T14:09:08Z[UTC]",
+          "id" : "03B4986D-E1A3-49B3-9676-77B33B990550",
+          "index" : 2748,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:08:04Z[UTC]",
+          "text" : "74.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-77",
+        "name" : "battery-event-2752",
+        "path" : "/test-input-trace/battery-event-2752",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:10:08Z[UTC]",
+          "generatedOn" : "2022-02-04T14:10:10Z[UTC]",
+          "id" : "1A56C745-A80A-4068-AFB2-F29C61294AAC",
+          "index" : 2752,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:09:08Z[UTC]",
+          "text" : "75.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-78",
+        "name" : "battery-event-2753",
+        "path" : "/test-input-trace/battery-event-2753",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:10:48Z[UTC]",
+          "generatedOn" : "2022-02-04T14:10:51Z[UTC]",
+          "id" : "1E2E6A44-8407-4F23-A979-21A5342A273D",
+          "index" : 2753,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:10:08Z[UTC]",
+          "text" : "76.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-79",
+        "name" : "battery-event-2754",
+        "path" : "/test-input-trace/battery-event-2754",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:11:52Z[UTC]",
+          "generatedOn" : "2022-02-04T14:11:54Z[UTC]",
+          "id" : "F4F9595B-B569-41B9-88E0-46735DB75538",
+          "index" : 2754,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:10:48Z[UTC]",
+          "text" : "77.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-80",
+        "name" : "battery-event-2755",
+        "path" : "/test-input-trace/battery-event-2755",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:12:56Z[UTC]",
+          "generatedOn" : "2022-02-04T14:12:56Z[UTC]",
+          "id" : "3F610DAA-C76A-422E-83D8-39E7B6223729",
+          "index" : 2755,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:11:52Z[UTC]",
+          "text" : "78.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-81",
+        "name" : "battery-event-2756",
+        "path" : "/test-input-trace/battery-event-2756",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:13:56Z[UTC]",
+          "generatedOn" : "2022-02-04T14:13:58Z[UTC]",
+          "id" : "9B6B2126-3F63-4FB4-9118-1E757CC39512",
+          "index" : 2756,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:12:56Z[UTC]",
+          "text" : "79.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-82",
+        "name" : "battery-event-2760",
+        "path" : "/test-input-trace/battery-event-2760",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:15Z[UTC]",
+          "generatedOn" : "2022-02-04T14:15Z[UTC]",
+          "id" : "7091D13C-D3DE-4485-B9BB-D09434D6D1ED",
+          "index" : 2760,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:13:56Z[UTC]",
+          "text" : "80.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-83",
+        "name" : "battery-event-2761",
+        "path" : "/test-input-trace/battery-event-2761",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:16Z[UTC]",
+          "generatedOn" : "2022-02-04T14:16:03Z[UTC]",
+          "id" : "49099498-2D9B-4AD5-92FF-5B0023FEEF3A",
+          "index" : 2761,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:15Z[UTC]",
+          "text" : "81.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-84",
+        "name" : "battery-event-2763",
+        "path" : "/test-input-trace/battery-event-2763",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:17:04Z[UTC]",
+          "generatedOn" : "2022-02-04T14:17:05Z[UTC]",
+          "id" : "13D80165-B6E9-4712-8296-ED80AF5E7D72",
+          "index" : 2763,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:16Z[UTC]",
+          "text" : "82.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-85",
+        "name" : "battery-event-2764",
+        "path" : "/test-input-trace/battery-event-2764",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:18:24Z[UTC]",
+          "generatedOn" : "2022-02-04T14:18:27Z[UTC]",
+          "id" : "8ACB66C4-5FF6-4935-AD1D-A8CBF19712B9",
+          "index" : 2764,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:17:04Z[UTC]",
+          "text" : "83.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-86",
+        "name" : "battery-event-2765",
+        "path" : "/test-input-trace/battery-event-2765",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:19:48Z[UTC]",
+          "generatedOn" : "2022-02-04T14:19:50Z[UTC]",
+          "id" : "7AAB9834-746C-412E-9E7C-68C6A0351529",
+          "index" : 2765,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:18:24Z[UTC]",
+          "text" : "84.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-87",
+        "name" : "battery-event-2766",
+        "path" : "/test-input-trace/battery-event-2766",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:21:12Z[UTC]",
+          "generatedOn" : "2022-02-04T14:21:13Z[UTC]",
+          "id" : "BBE26CD4-94C2-4FBD-BEDC-B70269DEE5BD",
+          "index" : 2766,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:19:48Z[UTC]",
+          "text" : "85.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-88",
+        "name" : "battery-event-2767",
+        "path" : "/test-input-trace/battery-event-2767",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:22:32Z[UTC]",
+          "generatedOn" : "2022-02-04T14:22:35Z[UTC]",
+          "id" : "1FB40646-9AF5-4C4D-AFA3-4452334235A9",
+          "index" : 2767,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:21:12Z[UTC]",
+          "text" : "86.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-89",
+        "name" : "battery-event-2768",
+        "path" : "/test-input-trace/battery-event-2768",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:24:16Z[UTC]",
+          "generatedOn" : "2022-02-04T14:24:18Z[UTC]",
+          "id" : "2014FB7D-409F-4F12-95E6-7DE30455A83D",
+          "index" : 2768,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:22:32Z[UTC]",
+          "text" : "87.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-90",
+        "name" : "battery-event-2770",
+        "path" : "/test-input-trace/battery-event-2770",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:26Z[UTC]",
+          "generatedOn" : "2022-02-04T14:26:02Z[UTC]",
+          "id" : "64CBFAF0-501E-4F5D-B34B-CC1124DB2F9B",
+          "index" : 2770,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:24:16Z[UTC]",
+          "text" : "88.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-91",
+        "name" : "battery-event-2771",
+        "path" : "/test-input-trace/battery-event-2771",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:28:04Z[UTC]",
+          "generatedOn" : "2022-02-04T14:28:05Z[UTC]",
+          "id" : "C78FA10B-BCDA-4F60-8732-9A0FD6C97473",
+          "index" : 2771,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:26Z[UTC]",
+          "text" : "89.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-92",
+        "name" : "battery-event-2773",
+        "path" : "/test-input-trace/battery-event-2773",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:30:08Z[UTC]",
+          "generatedOn" : "2022-02-04T14:30:09Z[UTC]",
+          "id" : "8B22DA19-CC78-4FE1-BC02-1D5BDD4E27EC",
+          "index" : 2773,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:28:04Z[UTC]",
+          "text" : "90.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-93",
+        "name" : "battery-event-2774",
+        "path" : "/test-input-trace/battery-event-2774",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:32:32Z[UTC]",
+          "generatedOn" : "2022-02-04T14:32:35Z[UTC]",
+          "id" : "6294878C-C79F-46CC-8CC6-69D8199EEBC9",
+          "index" : 2774,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:30:08Z[UTC]",
+          "text" : "91.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-94",
+        "name" : "battery-event-2775",
+        "path" : "/test-input-trace/battery-event-2775",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:35:20Z[UTC]",
+          "generatedOn" : "2022-02-04T14:35:20Z[UTC]",
+          "id" : "520C5F64-67C9-46A4-B627-84C640FCFD38",
+          "index" : 2775,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:32:32Z[UTC]",
+          "text" : "92.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-95",
+        "name" : "battery-event-2783",
+        "path" : "/test-input-trace/battery-event-2783",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:40:28Z[UTC]",
+          "generatedOn" : "2022-02-04T14:40:29Z[UTC]",
+          "id" : "D0D8F43C-FB0A-4ECE-A3B8-6A3484A8B7DF",
+          "index" : 2783,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:35:20Z[UTC]",
+          "text" : "93.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-96",
+        "name" : "battery-event-2801",
+        "path" : "/test-input-trace/battery-event-2801",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-04T14:43:56Z[UTC]",
+          "generatedOn" : "2022-02-04T14:43:56Z[UTC]",
+          "id" : "C5E90EBE-ECA0-4665-BE72-90E4CBD98EF0",
+          "index" : 2801,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-04T14:40:28Z[UTC]",
+          "text" : "94.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-97",
+        "name" : "battery-event-2902",
+        "path" : "/test-input-trace/battery-event-2902",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-08T09:28:12Z[UTC]",
+          "generatedOn" : "2022-02-08T09:28:14Z[UTC]",
+          "id" : "47D4319E-7936-4D79-9876-27C6D288E843",
+          "index" : 2902,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-08T09:27:32Z[UTC]",
+          "text" : "73.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-98",
+        "name" : "battery-event-2927",
+        "path" : "/test-input-trace/battery-event-2927",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-08T09:34:12Z[UTC]",
+          "generatedOn" : "2022-02-08T09:34:12Z[UTC]",
+          "id" : "FFED0560-4E08-4302-BE18-06D3E25C0F88",
+          "index" : 2927,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-08T09:28:12Z[UTC]",
+          "text" : "72.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-99",
+        "name" : "battery-event-2956",
+        "path" : "/test-input-trace/battery-event-2956",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-08T09:47:32Z[UTC]",
+          "generatedOn" : "2022-02-08T09:47:32Z[UTC]",
+          "id" : "B17A1AF5-6BC5-431E-9A8B-D263DBADF2DF",
+          "index" : 2956,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-08T09:34:12Z[UTC]",
+          "text" : "71.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-100",
+        "name" : "battery-event-3063",
+        "path" : "/test-input-trace/battery-event-3063",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T10:02:20Z[UTC]",
+          "generatedOn" : "2022-02-09T10:02:21Z[UTC]",
+          "id" : "9358C67E-D642-44CA-A9D5-4030053622D7",
+          "index" : 3063,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T10:01:16Z[UTC]",
+          "text" : "69.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-101",
+        "name" : "battery-event-3113",
+        "path" : "/test-input-trace/battery-event-3113",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T10:05:28Z[UTC]",
+          "generatedOn" : "2022-02-09T10:05:30Z[UTC]",
+          "id" : "1E0045B9-CCED-4B91-A4AB-F7A0A81A069E",
+          "index" : 3113,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T10:02:20Z[UTC]",
+          "text" : "68.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-102",
+        "name" : "battery-event-3120",
+        "path" : "/test-input-trace/battery-event-3120",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T10:05:48Z[UTC]",
+          "generatedOn" : "2022-02-09T10:05:51Z[UTC]",
+          "id" : "EB6389F6-8C16-4322-9A9B-E15C7AC72B7D",
+          "index" : 3120,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T10:05:28Z[UTC]",
+          "text" : "67.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-103",
+        "name" : "battery-event-3225",
+        "path" : "/test-input-trace/battery-event-3225",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T10:34:24Z[UTC]",
+          "generatedOn" : "2022-02-09T10:34:27Z[UTC]",
+          "id" : "71F393AD-8A76-40EA-A1B4-154E391EDDC0",
+          "index" : 3225,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T10:05:48Z[UTC]",
+          "text" : "66.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-104",
+        "name" : "battery-event-3251",
+        "path" : "/test-input-trace/battery-event-3251",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T10:35:48Z[UTC]",
+          "generatedOn" : "2022-02-09T10:35:49Z[UTC]",
+          "id" : "1F38D1A1-23F3-4847-A14B-B804212FF518",
+          "index" : 3251,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T10:34:24Z[UTC]",
+          "text" : "65.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-105",
+        "name" : "battery-event-3425",
+        "path" : "/test-input-trace/battery-event-3425",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T11:49Z[UTC]",
+          "generatedOn" : "2022-02-09T11:49Z[UTC]",
+          "id" : "BBFA5B12-BC02-4DA3-9679-5DCCB90C6206",
+          "index" : 3425,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T11:42:04Z[UTC]",
+          "text" : "62.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-106",
+        "name" : "battery-event-3434",
+        "path" : "/test-input-trace/battery-event-3434",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T11:53:28Z[UTC]",
+          "generatedOn" : "2022-02-09T11:53:28Z[UTC]",
+          "id" : "8A1174EF-8DDE-46D7-9449-3885BD23EB6B",
+          "index" : 3434,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T11:49Z[UTC]",
+          "text" : "61.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-107",
+        "name" : "battery-event-3464",
+        "path" : "/test-input-trace/battery-event-3464",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:06:20Z[UTC]",
+          "generatedOn" : "2022-02-09T12:06:22Z[UTC]",
+          "id" : "71443550-5EAE-4369-A831-CB31F5409946",
+          "index" : 3464,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T11:53:28Z[UTC]",
+          "text" : "60.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-108",
+        "name" : "battery-event-3466",
+        "path" : "/test-input-trace/battery-event-3466",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:07:24Z[UTC]",
+          "generatedOn" : "2022-02-09T12:07:24Z[UTC]",
+          "id" : "FEE2187C-D95C-46F2-8B87-C50951EA132C",
+          "index" : 3466,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:06:20Z[UTC]",
+          "text" : "61.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-109",
+        "name" : "battery-event-3468",
+        "path" : "/test-input-trace/battery-event-3468",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:08:04Z[UTC]",
+          "generatedOn" : "2022-02-09T12:08:06Z[UTC]",
+          "id" : "414E9895-AFD4-4B30-906D-52E28293D053",
+          "index" : 3468,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:07:24Z[UTC]",
+          "text" : "62.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-110",
+        "name" : "battery-event-3470",
+        "path" : "/test-input-trace/battery-event-3470",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:09:08Z[UTC]",
+          "generatedOn" : "2022-02-09T12:09:08Z[UTC]",
+          "id" : "54D0054E-D1CD-4E9E-BC74-61084C0B6481",
+          "index" : 3470,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:08:04Z[UTC]",
+          "text" : "63.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-111",
+        "name" : "battery-event-3471",
+        "path" : "/test-input-trace/battery-event-3471",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:09:48Z[UTC]",
+          "generatedOn" : "2022-02-09T12:09:49Z[UTC]",
+          "id" : "209C6530-8AEB-4F7E-BCAA-C95B77759B4D",
+          "index" : 3471,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:09:08Z[UTC]",
+          "text" : "64.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-112",
+        "name" : "battery-event-3475",
+        "path" : "/test-input-trace/battery-event-3475",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:10:48Z[UTC]",
+          "generatedOn" : "2022-02-09T12:10:51Z[UTC]",
+          "id" : "CF6EE51A-CA29-449D-A814-64EEE9334377",
+          "index" : 3475,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:09:48Z[UTC]",
+          "text" : "65.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-113",
+        "name" : "battery-event-3477",
+        "path" : "/test-input-trace/battery-event-3477",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:11:32Z[UTC]",
+          "generatedOn" : "2022-02-09T12:11:33Z[UTC]",
+          "id" : "C23E5F99-4810-4980-A9CF-06E3C10A5F96",
+          "index" : 3477,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:10:48Z[UTC]",
+          "text" : "66.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-114",
+        "name" : "battery-event-3515",
+        "path" : "/test-input-trace/battery-event-3515",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:12:32Z[UTC]",
+          "generatedOn" : "2022-02-09T12:12:35Z[UTC]",
+          "id" : "EB175425-8A52-4814-934A-6BA22CA78AA3",
+          "index" : 3515,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:11:32Z[UTC]",
+          "text" : "67.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-115",
+        "name" : "battery-event-3539",
+        "path" : "/test-input-trace/battery-event-3539",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:13:36Z[UTC]",
+          "generatedOn" : "2022-02-09T12:13:37Z[UTC]",
+          "id" : "69E1022B-5A88-4342-A380-6D6D702922B9",
+          "index" : 3539,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:12:32Z[UTC]",
+          "text" : "68.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-116",
+        "name" : "battery-event-3627",
+        "path" : "/test-input-trace/battery-event-3627",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:14:40Z[UTC]",
+          "generatedOn" : "2022-02-09T12:14:40Z[UTC]",
+          "id" : "4321E025-495A-4615-9D58-A3B0F0C135E9",
+          "index" : 3627,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:13:36Z[UTC]",
+          "text" : "69.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-117",
+        "name" : "battery-event-3636",
+        "path" : "/test-input-trace/battery-event-3636",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:15:40Z[UTC]",
+          "generatedOn" : "2022-02-09T12:15:42Z[UTC]",
+          "id" : "2C2430FB-EBD3-4212-A481-E6E9930EFEDD",
+          "index" : 3636,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:14:40Z[UTC]",
+          "text" : "70.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-118",
+        "name" : "battery-event-3646",
+        "path" : "/test-input-trace/battery-event-3646",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:16:44Z[UTC]",
+          "generatedOn" : "2022-02-09T12:16:44Z[UTC]",
+          "id" : "D621796F-FE93-4825-BAFA-F6EF9A5E3EFD",
+          "index" : 3646,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:15:40Z[UTC]",
+          "text" : "71.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-119",
+        "name" : "battery-event-3647",
+        "path" : "/test-input-trace/battery-event-3647",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:17:24Z[UTC]",
+          "generatedOn" : "2022-02-09T12:17:25Z[UTC]",
+          "id" : "1BD62FC9-E4D7-422E-98AF-56BABECD0EE8",
+          "index" : 3647,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:16:44Z[UTC]",
+          "text" : "72.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-120",
+        "name" : "battery-event-3652",
+        "path" : "/test-input-trace/battery-event-3652",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:18:28Z[UTC]",
+          "generatedOn" : "2022-02-09T12:18:28Z[UTC]",
+          "id" : "B1F913E3-7E52-441D-A6C2-CBC205F60429",
+          "index" : 3652,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:17:24Z[UTC]",
+          "text" : "73.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-121",
+        "name" : "battery-event-3653",
+        "path" : "/test-input-trace/battery-event-3653",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:19:28Z[UTC]",
+          "generatedOn" : "2022-02-09T12:19:30Z[UTC]",
+          "id" : "D2FAB327-C802-4F94-90C5-CF8D49AA0309",
+          "index" : 3653,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:18:28Z[UTC]",
+          "text" : "74.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-122",
+        "name" : "battery-event-3661",
+        "path" : "/test-input-trace/battery-event-3661",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:20:08Z[UTC]",
+          "generatedOn" : "2022-02-09T12:20:11Z[UTC]",
+          "id" : "9D3EB36C-6EDE-40D2-A6A2-0F99316DB3DC",
+          "index" : 3661,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:19:28Z[UTC]",
+          "text" : "75.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-123",
+        "name" : "battery-event-3662",
+        "path" : "/test-input-trace/battery-event-3662",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:21:12Z[UTC]",
+          "generatedOn" : "2022-02-09T12:21:14Z[UTC]",
+          "id" : "6DB4F520-56CD-4327-B831-D1CF264CDB78",
+          "index" : 3662,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:20:08Z[UTC]",
+          "text" : "76.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-124",
+        "name" : "battery-event-3663",
+        "path" : "/test-input-trace/battery-event-3663",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:22:16Z[UTC]",
+          "generatedOn" : "2022-02-09T12:22:16Z[UTC]",
+          "id" : "B60A9DF5-8C80-48C3-B3AA-C7AEFABCEF62",
+          "index" : 3663,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:21:12Z[UTC]",
+          "text" : "77.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-125",
+        "name" : "battery-event-3664",
+        "path" : "/test-input-trace/battery-event-3664",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:23:16Z[UTC]",
+          "generatedOn" : "2022-02-09T12:23:18Z[UTC]",
+          "id" : "68CDBF22-6F09-4B8B-BE21-6F220C62A0F4",
+          "index" : 3664,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:22:16Z[UTC]",
+          "text" : "78.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-126",
+        "name" : "battery-event-3665",
+        "path" : "/test-input-trace/battery-event-3665",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:24:20Z[UTC]",
+          "generatedOn" : "2022-02-09T12:24:21Z[UTC]",
+          "id" : "FB289012-E498-4844-A64B-9564555840EB",
+          "index" : 3665,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:23:16Z[UTC]",
+          "text" : "79.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-127",
+        "name" : "battery-event-3666",
+        "path" : "/test-input-trace/battery-event-3666",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:25:20Z[UTC]",
+          "generatedOn" : "2022-02-09T12:25:23Z[UTC]",
+          "id" : "FA6F04AC-1763-4FCF-BA4E-8E005D916C4A",
+          "index" : 3666,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:24:20Z[UTC]",
+          "text" : "80.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-128",
+        "name" : "battery-event-3667",
+        "path" : "/test-input-trace/battery-event-3667",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:26:44Z[UTC]",
+          "generatedOn" : "2022-02-09T12:26:46Z[UTC]",
+          "id" : "2E2033BD-2449-496C-B5C2-D2EBA8FAE154",
+          "index" : 3667,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:25:20Z[UTC]",
+          "text" : "81.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-129",
+        "name" : "battery-event-3679",
+        "path" : "/test-input-trace/battery-event-3679",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:27:48Z[UTC]",
+          "generatedOn" : "2022-02-09T12:27:48Z[UTC]",
+          "id" : "9B5E223F-D36C-421E-87F6-C42E7DD71D85",
+          "index" : 3679,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:26:44Z[UTC]",
+          "text" : "82.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-130",
+        "name" : "battery-event-3680",
+        "path" : "/test-input-trace/battery-event-3680",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:29:08Z[UTC]",
+          "generatedOn" : "2022-02-09T12:29:11Z[UTC]",
+          "id" : "F15F0A20-CFBB-4A7A-8482-64A723B5650C",
+          "index" : 3680,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:27:48Z[UTC]",
+          "text" : "83.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-131",
+        "name" : "battery-event-3681",
+        "path" : "/test-input-trace/battery-event-3681",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:30:12Z[UTC]",
+          "generatedOn" : "2022-02-09T12:30:13Z[UTC]",
+          "id" : "40B9C6C1-6B5B-4694-AAD7-C755F5566452",
+          "index" : 3681,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:29:08Z[UTC]",
+          "text" : "84.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-132",
+        "name" : "battery-event-3684",
+        "path" : "/test-input-trace/battery-event-3684",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:31:56Z[UTC]",
+          "generatedOn" : "2022-02-09T12:31:57Z[UTC]",
+          "id" : "1969B9F6-88DF-41C5-BCD1-2CFF49A2E95A",
+          "index" : 3684,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:30:12Z[UTC]",
+          "text" : "85.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-133",
+        "name" : "battery-event-3686",
+        "path" : "/test-input-trace/battery-event-3686",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:33:16Z[UTC]",
+          "generatedOn" : "2022-02-09T12:33:19Z[UTC]",
+          "id" : "BE19DBCD-CEA6-4DEE-B79F-6A9391AA4CC1",
+          "index" : 3686,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:31:56Z[UTC]",
+          "text" : "86.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-134",
+        "name" : "battery-event-3687",
+        "path" : "/test-input-trace/battery-event-3687",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:35Z[UTC]",
+          "generatedOn" : "2022-02-09T12:35:02Z[UTC]",
+          "id" : "C3824E47-F4D4-4CB3-8FB4-76CEC9EB205B",
+          "index" : 3687,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:33:16Z[UTC]",
+          "text" : "87.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-135",
+        "name" : "battery-event-3688",
+        "path" : "/test-input-trace/battery-event-3688",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:36:44Z[UTC]",
+          "generatedOn" : "2022-02-09T12:36:46Z[UTC]",
+          "id" : "C2F5866C-00AD-4A34-8A95-C6C218B07A01",
+          "index" : 3688,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:35Z[UTC]",
+          "text" : "88.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-136",
+        "name" : "battery-event-3689",
+        "path" : "/test-input-trace/battery-event-3689",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:38:28Z[UTC]",
+          "generatedOn" : "2022-02-09T12:38:29Z[UTC]",
+          "id" : "951E4D9A-1295-442C-8CC1-77C1F4401979",
+          "index" : 3689,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:36:44Z[UTC]",
+          "text" : "89.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-137",
+        "name" : "battery-event-3691",
+        "path" : "/test-input-trace/battery-event-3691",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:40:32Z[UTC]",
+          "generatedOn" : "2022-02-09T12:40:33Z[UTC]",
+          "id" : "6843709A-0C43-43FF-AD2D-892A149363C4",
+          "index" : 3691,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:38:28Z[UTC]",
+          "text" : "90.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-138",
+        "name" : "battery-event-3693",
+        "path" : "/test-input-trace/battery-event-3693",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:42:56Z[UTC]",
+          "generatedOn" : "2022-02-09T12:42:57Z[UTC]",
+          "id" : "9A2DAD46-8BF5-4BB7-A288-AD9A246705CF",
+          "index" : 3693,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:40:32Z[UTC]",
+          "text" : "91.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-139",
+        "name" : "battery-event-3694",
+        "path" : "/test-input-trace/battery-event-3694",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:45:20Z[UTC]",
+          "generatedOn" : "2022-02-09T12:45:22Z[UTC]",
+          "id" : "B6339D3E-4AD2-401C-84FA-1BDA46024D46",
+          "index" : 3694,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:42:56Z[UTC]",
+          "text" : "92.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-140",
+        "name" : "battery-event-3749",
+        "path" : "/test-input-trace/battery-event-3749",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:48:28Z[UTC]",
+          "generatedOn" : "2022-02-09T12:48:28Z[UTC]",
+          "id" : "84EB17DC-8BCD-48E2-B72B-031BA25A133B",
+          "index" : 3749,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:45:20Z[UTC]",
+          "text" : "93.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-141",
+        "name" : "battery-event-3751",
+        "path" : "/test-input-trace/battery-event-3751",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:51:52Z[UTC]",
+          "generatedOn" : "2022-02-09T12:51:55Z[UTC]",
+          "id" : "93AA5F61-5C89-4EB4-977A-C502EB70B59A",
+          "index" : 3751,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:48:28Z[UTC]",
+          "text" : "94.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-142",
+        "name" : "battery-event-3758",
+        "path" : "/test-input-trace/battery-event-3758",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T12:56Z[UTC]",
+          "generatedOn" : "2022-02-09T12:56:03Z[UTC]",
+          "id" : "141A45F8-1E89-486C-8717-D37C3274998B",
+          "index" : 3758,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:51:52Z[UTC]",
+          "text" : "95.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-143",
+        "name" : "battery-event-3800",
+        "path" : "/test-input-trace/battery-event-3800",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T13:00:28Z[UTC]",
+          "generatedOn" : "2022-02-09T13:00:31Z[UTC]",
+          "id" : "EC57692D-358F-453C-B882-C5598CA2A2E1",
+          "index" : 3800,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T12:56Z[UTC]",
+          "text" : "96.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-144",
+        "name" : "battery-event-3898",
+        "path" : "/test-input-trace/battery-event-3898",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T15:08:28Z[UTC]",
+          "generatedOn" : "2022-02-09T15:08:30Z[UTC]",
+          "id" : "FA2C7CC0-A892-48A2-907F-9780E54A5B16",
+          "index" : 3898,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T15:06:44Z[UTC]",
+          "text" : "99.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-145",
+        "name" : "battery-event-3986",
+        "path" : "/test-input-trace/battery-event-3986",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T15:12:28Z[UTC]",
+          "generatedOn" : "2022-02-09T15:12:31Z[UTC]",
+          "id" : "7B34258E-9E59-442F-8D43-67745289A509",
+          "index" : 3986,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T15:10:24Z[UTC]",
+          "text" : "97.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-146",
+        "name" : "battery-event-4016",
+        "path" : "/test-input-trace/battery-event-4016",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T15:15:16Z[UTC]",
+          "generatedOn" : "2022-02-09T15:15:18Z[UTC]",
+          "id" : "AD16C4E5-217D-4FC4-B22F-738C8AECF844",
+          "index" : 4016,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T15:12:28Z[UTC]",
+          "text" : "96.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-147",
+        "name" : "battery-event-4053",
+        "path" : "/test-input-trace/battery-event-4053",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-09T15:17:40Z[UTC]",
+          "generatedOn" : "2022-02-09T15:17:42Z[UTC]",
+          "id" : "A44B09E6-89B3-4A35-A8AF-79663E1026E5",
+          "index" : 4053,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-09T15:15:16Z[UTC]",
+          "text" : "95.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-148",
+        "name" : "battery-event-4129",
+        "path" : "/test-input-trace/battery-event-4129",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T11:20:08Z[UTC]",
+          "generatedOn" : "2022-02-10T11:20:11Z[UTC]",
+          "id" : "28936129-5510-4EA5-8E98-22F633B6BEC0",
+          "index" : 4129,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T11:18:48Z[UTC]",
+          "text" : "93.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-149",
+        "name" : "battery-event-4133",
+        "path" : "/test-input-trace/battery-event-4133",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T11:21:52Z[UTC]",
+          "generatedOn" : "2022-02-10T11:21:55Z[UTC]",
+          "id" : "F0BCE8A8-E049-4042-9BE5-12139AB7C27D",
+          "index" : 4133,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T11:20:08Z[UTC]",
+          "text" : "92.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-150",
+        "name" : "battery-event-4138",
+        "path" : "/test-input-trace/battery-event-4138",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T11:24Z[UTC]",
+          "generatedOn" : "2022-02-10T11:24Z[UTC]",
+          "id" : "E8B4A364-A96B-487A-8147-3750488E9122",
+          "index" : 4138,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T11:21:52Z[UTC]",
+          "text" : "91.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-151",
+        "name" : "battery-event-4143",
+        "path" : "/test-input-trace/battery-event-4143",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T11:26:44Z[UTC]",
+          "generatedOn" : "2022-02-10T11:26:45Z[UTC]",
+          "id" : "5B992323-62D6-4702-8FD7-BF81CED4CF17",
+          "index" : 4143,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T11:24Z[UTC]",
+          "text" : "90.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-152",
+        "name" : "battery-event-4154",
+        "path" : "/test-input-trace/battery-event-4154",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T11:28:48Z[UTC]",
+          "generatedOn" : "2022-02-10T11:28:49Z[UTC]",
+          "id" : "08F37C70-B3C9-41E9-B306-9589AE37D833",
+          "index" : 4154,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T11:26:44Z[UTC]",
+          "text" : "89.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-153",
+        "name" : "battery-event-4160",
+        "path" : "/test-input-trace/battery-event-4160",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T11:31:12Z[UTC]",
+          "generatedOn" : "2022-02-10T11:31:13Z[UTC]",
+          "id" : "2208598D-BBE1-4D8D-9983-2726B6847A16",
+          "index" : 4160,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T11:28:48Z[UTC]",
+          "text" : "88.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-154",
+        "name" : "battery-event-4163",
+        "path" : "/test-input-trace/battery-event-4163",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T11:33:56Z[UTC]",
+          "generatedOn" : "2022-02-10T11:33:58Z[UTC]",
+          "id" : "6E252991-6704-4292-A9AC-40D1C95F129D",
+          "index" : 4163,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T11:31:12Z[UTC]",
+          "text" : "87.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-155",
+        "name" : "battery-event-4182",
+        "path" : "/test-input-trace/battery-event-4182",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T11:37Z[UTC]",
+          "generatedOn" : "2022-02-10T11:37:03Z[UTC]",
+          "id" : "2D160431-ADAC-4674-ADF5-0C5645BB740A",
+          "index" : 4182,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T11:33:56Z[UTC]",
+          "text" : "86.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-156",
+        "name" : "battery-event-4224",
+        "path" : "/test-input-trace/battery-event-4224",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T11:40:56Z[UTC]",
+          "generatedOn" : "2022-02-10T11:40:59Z[UTC]",
+          "id" : "3BBE7564-37D1-411F-800A-32036F4CAB06",
+          "index" : 4224,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T11:37Z[UTC]",
+          "text" : "85.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-157",
+        "name" : "battery-event-4259",
+        "path" : "/test-input-trace/battery-event-4259",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T11:45:24Z[UTC]",
+          "generatedOn" : "2022-02-10T11:45:24Z[UTC]",
+          "id" : "3AE4FEAF-35C9-4BF7-891D-9CAF0AC535E1",
+          "index" : 4259,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T11:40:56Z[UTC]",
+          "text" : "84.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-158",
+        "name" : "battery-event-4333",
+        "path" : "/test-input-trace/battery-event-4333",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T15:10:52Z[UTC]",
+          "generatedOn" : "2022-02-10T15:10:52Z[UTC]",
+          "id" : "C9D0976C-F0DD-4F18-BA8C-7386B78CB0F1",
+          "index" : 4333,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T15:09:28Z[UTC]",
+          "text" : "83.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-159",
+        "name" : "battery-event-4372",
+        "path" : "/test-input-trace/battery-event-4372",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T15:12:36Z[UTC]",
+          "generatedOn" : "2022-02-10T15:12:36Z[UTC]",
+          "id" : "8D493078-233A-4613-A62A-747FBA38633B",
+          "index" : 4372,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T15:10:52Z[UTC]",
+          "text" : "82.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-160",
+        "name" : "battery-event-4391",
+        "path" : "/test-input-trace/battery-event-4391",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T15:21:44Z[UTC]",
+          "generatedOn" : "2022-02-10T15:21:44Z[UTC]",
+          "id" : "CE685E65-BCDA-4B6A-B4DB-537C6E435116",
+          "index" : 4391,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T15:12:36Z[UTC]",
+          "text" : "81.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-161",
+        "name" : "battery-event-4394",
+        "path" : "/test-input-trace/battery-event-4394",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T15:23:48Z[UTC]",
+          "generatedOn" : "2022-02-10T15:23:48Z[UTC]",
+          "id" : "9B1DDC55-EC9A-4673-84DE-7E5E66B4E8DB",
+          "index" : 4394,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T15:21:44Z[UTC]",
+          "text" : "80.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-162",
+        "name" : "battery-event-4415",
+        "path" : "/test-input-trace/battery-event-4415",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T15:25:28Z[UTC]",
+          "generatedOn" : "2022-02-10T15:25:31Z[UTC]",
+          "id" : "528F53B2-C93C-4C0A-859A-2A9227FB943A",
+          "index" : 4415,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T15:23:48Z[UTC]",
+          "text" : "79.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-163",
+        "name" : "battery-event-4428",
+        "path" : "/test-input-trace/battery-event-4428",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T15:27:12Z[UTC]",
+          "generatedOn" : "2022-02-10T15:27:14Z[UTC]",
+          "id" : "FE6DED11-1EE7-435F-9939-20477985F070",
+          "index" : 4428,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T15:25:28Z[UTC]",
+          "text" : "78.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-164",
+        "name" : "battery-event-4464",
+        "path" : "/test-input-trace/battery-event-4464",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T15:28:52Z[UTC]",
+          "generatedOn" : "2022-02-10T15:28:53Z[UTC]",
+          "id" : "23F7A45E-4F71-45E7-AB99-A67992696926",
+          "index" : 4464,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T15:27:12Z[UTC]",
+          "text" : "77.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-165",
+        "name" : "battery-event-4465",
+        "path" : "/test-input-trace/battery-event-4465",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T15:30:12Z[UTC]",
+          "generatedOn" : "2022-02-10T15:30:15Z[UTC]",
+          "id" : "67BDDC5D-F61E-4F25-8EDB-F68B1E15B9D0",
+          "index" : 4465,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T15:28:52Z[UTC]",
+          "text" : "76.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-166",
+        "name" : "battery-event-4490",
+        "path" : "/test-input-trace/battery-event-4490",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-10T15:32:16Z[UTC]",
+          "generatedOn" : "2022-02-10T15:32:19Z[UTC]",
+          "id" : "343B7A6D-842B-4262-A247-26B707861164",
+          "index" : 4490,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-10T15:30:12Z[UTC]",
+          "text" : "75.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-167",
+        "name" : "battery-event-4560",
+        "path" : "/test-input-trace/battery-event-4560",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-11T17:13Z[UTC]",
+          "generatedOn" : "2022-02-11T17:13:01Z[UTC]",
+          "id" : "76FF1729-6E03-4D58-846B-0B2F13E64FD5",
+          "index" : 4560,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-11T17:12:20Z[UTC]",
+          "text" : "73.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-168",
+        "name" : "battery-event-4567",
+        "path" : "/test-input-trace/battery-event-4567",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-11T17:15:48Z[UTC]",
+          "generatedOn" : "2022-02-11T17:15:49Z[UTC]",
+          "id" : "900FFABE-F381-4A78-A34A-9094F429FCE0",
+          "index" : 4567,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-11T17:13Z[UTC]",
+          "text" : "72.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-169",
+        "name" : "battery-event-4607",
+        "path" : "/test-input-trace/battery-event-4607",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-11T17:32:56Z[UTC]",
+          "generatedOn" : "2022-02-11T17:32:57Z[UTC]",
+          "id" : "F1B43646-1297-41F8-87DB-FC059794D249",
+          "index" : 4607,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-11T17:15:48Z[UTC]",
+          "text" : "71.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-170",
+        "name" : "battery-event-4661",
+        "path" : "/test-input-trace/battery-event-4661",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-11T17:39:16Z[UTC]",
+          "generatedOn" : "2022-02-11T17:39:18Z[UTC]",
+          "id" : "BA97A30A-134A-49C2-9F9D-3F37205FE013",
+          "index" : 4661,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-11T17:32:56Z[UTC]",
+          "text" : "70.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-171",
+        "name" : "battery-event-4724",
+        "path" : "/test-input-trace/battery-event-4724",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-13T12:54:12Z[UTC]",
+          "generatedOn" : "2022-02-13T12:54:16Z[UTC]",
+          "id" : "9DBE4215-99DF-4083-82C3-0E741EA76391",
+          "index" : 4724,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-13T12:53:52Z[UTC]",
+          "text" : "69.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-172",
+        "name" : "battery-event-4731",
+        "path" : "/test-input-trace/battery-event-4731",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-13T12:55:04Z[UTC]",
+          "generatedOn" : "2022-02-13T12:55:06Z[UTC]",
+          "id" : "1CE42EA8-F39F-45D3-8E8D-8206AFD34928",
+          "index" : 4731,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-13T12:54:12Z[UTC]",
+          "text" : "68.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-173",
+        "name" : "battery-event-4759",
+        "path" : "/test-input-trace/battery-event-4759",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-13T12:55:44Z[UTC]",
+          "generatedOn" : "2022-02-13T12:55:47Z[UTC]",
+          "id" : "1F74910E-7DCB-470E-A0D2-342A86BCE325",
+          "index" : 4759,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-13T12:55:04Z[UTC]",
+          "text" : "67.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-174",
+        "name" : "battery-event-4769",
+        "path" : "/test-input-trace/battery-event-4769",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-13T12:57:28Z[UTC]",
+          "generatedOn" : "2022-02-13T12:57:31Z[UTC]",
+          "id" : "657A431D-2275-43DD-8A74-F8BA36C354B9",
+          "index" : 4769,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-13T12:55:44Z[UTC]",
+          "text" : "66.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-175",
+        "name" : "battery-event-4805",
+        "path" : "/test-input-trace/battery-event-4805",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-13T12:59:36Z[UTC]",
+          "generatedOn" : "2022-02-13T12:59:36Z[UTC]",
+          "id" : "0229F1B9-CF2E-476A-AB21-C58B645A6A90",
+          "index" : 4805,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-13T12:57:28Z[UTC]",
+          "text" : "65.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-176",
+        "name" : "battery-event-4820",
+        "path" : "/test-input-trace/battery-event-4820",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-13T13:01:16Z[UTC]",
+          "generatedOn" : "2022-02-13T13:01:19Z[UTC]",
+          "id" : "C5D8752C-7902-42EF-83FB-424A5C4187D0",
+          "index" : 4820,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-13T12:59:36Z[UTC]",
+          "text" : "64.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-177",
+        "name" : "battery-event-4829",
+        "path" : "/test-input-trace/battery-event-4829",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-13T13:04:04Z[UTC]",
+          "generatedOn" : "2022-02-13T13:04:04Z[UTC]",
+          "id" : "EBFD4B3F-705F-4A6F-88EA-CAD2213A1B6E",
+          "index" : 4829,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-13T13:01:16Z[UTC]",
+          "text" : "63.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-178",
+        "name" : "battery-event-4835",
+        "path" : "/test-input-trace/battery-event-4835",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-13T13:06:08Z[UTC]",
+          "generatedOn" : "2022-02-13T13:06:08Z[UTC]",
+          "id" : "9646693D-08A5-415C-9218-F8A92ED306BF",
+          "index" : 4835,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-13T13:04:04Z[UTC]",
+          "text" : "62.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-179",
+        "name" : "battery-event-4838",
+        "path" : "/test-input-trace/battery-event-4838",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-13T13:07:48Z[UTC]",
+          "generatedOn" : "2022-02-13T13:07:51Z[UTC]",
+          "id" : "624EA177-5F61-48DD-B1EA-8E7582E9AE0F",
+          "index" : 4838,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-13T13:06:08Z[UTC]",
+          "text" : "61.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-180",
+        "name" : "battery-event-4861",
+        "path" : "/test-input-trace/battery-event-4861",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-13T13:09:52Z[UTC]",
+          "generatedOn" : "2022-02-13T13:09:55Z[UTC]",
+          "id" : "A1EBA1C2-0FD9-4956-8333-0BD8190D773F",
+          "index" : 4861,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-13T13:07:48Z[UTC]",
+          "text" : "60.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-181",
+        "name" : "battery-event-4912",
+        "path" : "/test-input-trace/battery-event-4912",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-13T17:52:44Z[UTC]",
+          "generatedOn" : "2022-02-13T17:52:44Z[UTC]",
+          "id" : "C9235D5A-EAA1-40DC-B2DB-49A855050C20",
+          "index" : 4912,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-13T17:51:40Z[UTC]",
+          "text" : "58.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-182",
+        "name" : "battery-event-4936",
+        "path" : "/test-input-trace/battery-event-4936",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-13T17:57:12Z[UTC]",
+          "generatedOn" : "2022-02-13T17:57:15Z[UTC]",
+          "id" : "22E6BA37-EB6E-4AC0-94C9-DB392D8C1EF5",
+          "index" : 4936,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-13T17:52:44Z[UTC]",
+          "text" : "57.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-183",
+        "name" : "battery-event-4995",
+        "path" : "/test-input-trace/battery-event-4995",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T09:44:28Z[UTC]",
+          "generatedOn" : "2022-02-14T09:44:28Z[UTC]",
+          "id" : "44ECD699-B08F-4EC6-A2CD-50C6AE1AFE4D",
+          "index" : 4995,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T09:44:04Z[UTC]",
+          "text" : "55.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-184",
+        "name" : "battery-event-5016",
+        "path" : "/test-input-trace/battery-event-5016",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T09:46:56Z[UTC]",
+          "generatedOn" : "2022-02-14T09:46:58Z[UTC]",
+          "id" : "AF73AB9D-73FD-41B5-A9B8-A591055BDC0C",
+          "index" : 5016,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T09:44:28Z[UTC]",
+          "text" : "54.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-185",
+        "name" : "battery-event-5027",
+        "path" : "/test-input-trace/battery-event-5027",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T09:49Z[UTC]",
+          "generatedOn" : "2022-02-14T09:49:03Z[UTC]",
+          "id" : "E65102DD-49D7-413A-8E55-E23CD38F7230",
+          "index" : 5027,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T09:46:56Z[UTC]",
+          "text" : "53.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-186",
+        "name" : "battery-event-5043",
+        "path" : "/test-input-trace/battery-event-5043",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T09:51:08Z[UTC]",
+          "generatedOn" : "2022-02-14T09:51:08Z[UTC]",
+          "id" : "F5546F12-21EA-4380-8198-81F621D08A89",
+          "index" : 5043,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T09:49Z[UTC]",
+          "text" : "52.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-187",
+        "name" : "battery-event-5092",
+        "path" : "/test-input-trace/battery-event-5092",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T09:53:32Z[UTC]",
+          "generatedOn" : "2022-02-14T09:53:32Z[UTC]",
+          "id" : "E9213EDD-9619-43FF-9CFA-8D052CEEF08E",
+          "index" : 5092,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T09:51:08Z[UTC]",
+          "text" : "51.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-188",
+        "name" : "battery-event-5124",
+        "path" : "/test-input-trace/battery-event-5124",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T09:55:12Z[UTC]",
+          "generatedOn" : "2022-02-14T09:55:15Z[UTC]",
+          "id" : "81F80B7E-1D84-4836-AC9C-1E3A91E7C036",
+          "index" : 5124,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T09:53:32Z[UTC]",
+          "text" : "50.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-189",
+        "name" : "battery-event-5143",
+        "path" : "/test-input-trace/battery-event-5143",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T09:57:20Z[UTC]",
+          "generatedOn" : "2022-02-14T09:57:23Z[UTC]",
+          "id" : "3082752C-2EA8-4AC3-984A-6C7DB7350F19",
+          "index" : 5143,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T09:55:12Z[UTC]",
+          "text" : "49.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-190",
+        "name" : "battery-event-5158",
+        "path" : "/test-input-trace/battery-event-5158",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T09:58:44Z[UTC]",
+          "generatedOn" : "2022-02-14T09:58:45Z[UTC]",
+          "id" : "CAFD0DE5-4231-4FE2-974B-130FEC89CDA6",
+          "index" : 5158,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T09:57:20Z[UTC]",
+          "text" : "48.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-191",
+        "name" : "battery-event-5179",
+        "path" : "/test-input-trace/battery-event-5179",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T10:00:04Z[UTC]",
+          "generatedOn" : "2022-02-14T10:00:08Z[UTC]",
+          "id" : "16E01CAF-267B-4E7E-AEE6-5E8999C76133",
+          "index" : 5179,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T09:58:44Z[UTC]",
+          "text" : "47.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-192",
+        "name" : "battery-event-5194",
+        "path" : "/test-input-trace/battery-event-5194",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T10:01:48Z[UTC]",
+          "generatedOn" : "2022-02-14T10:01:50Z[UTC]",
+          "id" : "752BC839-532A-4458-A15E-FE92A6E0BC8E",
+          "index" : 5194,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T10:00:04Z[UTC]",
+          "text" : "46.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-193",
+        "name" : "battery-event-5195",
+        "path" : "/test-input-trace/battery-event-5195",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T10:02:08Z[UTC]",
+          "generatedOn" : "2022-02-14T10:02:11Z[UTC]",
+          "id" : "19CDD3CF-A5FA-40C9-8722-CA3A9D9FD8BA",
+          "index" : 5195,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T10:01:48Z[UTC]",
+          "text" : "45.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-194",
+        "name" : "battery-event-5218",
+        "path" : "/test-input-trace/battery-event-5218",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T10:03:12Z[UTC]",
+          "generatedOn" : "2022-02-14T10:03:13Z[UTC]",
+          "id" : "C58A8C2D-94C9-4FE9-927C-378EFC5BF59C",
+          "index" : 5218,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T10:02:08Z[UTC]",
+          "text" : "44.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-195",
+        "name" : "battery-event-5249",
+        "path" : "/test-input-trace/battery-event-5249",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T10:05:36Z[UTC]",
+          "generatedOn" : "2022-02-14T10:05:38Z[UTC]",
+          "id" : "610802C7-BB86-41C2-945B-97227B9A5626",
+          "index" : 5249,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T10:03:12Z[UTC]",
+          "text" : "43.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-196",
+        "name" : "battery-event-5288",
+        "path" : "/test-input-trace/battery-event-5288",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T10:07:48Z[UTC]",
+          "generatedOn" : "2022-02-14T10:07:49Z[UTC]",
+          "id" : "010FB0CD-A97D-460C-BB36-E50B47F733D9",
+          "index" : 5288,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T10:05:36Z[UTC]",
+          "text" : "42.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-197",
+        "name" : "battery-event-5372",
+        "path" : "/test-input-trace/battery-event-5372",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T10:14:16Z[UTC]",
+          "generatedOn" : "2022-02-14T10:14:18Z[UTC]",
+          "id" : "5F662C1E-B1DF-4901-9E2C-9D68D7D42558",
+          "index" : 5372,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T10:11:32Z[UTC]",
+          "text" : "39.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-198",
+        "name" : "battery-event-5419",
+        "path" : "/test-input-trace/battery-event-5419",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T10:16:20Z[UTC]",
+          "generatedOn" : "2022-02-14T10:16:23Z[UTC]",
+          "id" : "103D73AD-8C5E-4901-9A3F-655F878237CF",
+          "index" : 5419,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T10:14:16Z[UTC]",
+          "text" : "38.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-199",
+        "name" : "battery-event-5447",
+        "path" : "/test-input-trace/battery-event-5447",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-14T10:18:24Z[UTC]",
+          "generatedOn" : "2022-02-14T10:18:26Z[UTC]",
+          "id" : "8B02E50A-419E-4532-A1B8-46B6268BF98D",
+          "index" : 5447,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-14T10:16:20Z[UTC]",
+          "text" : "37.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-200",
+        "name" : "battery-event-5900",
+        "path" : "/test-input-trace/battery-event-5900",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-15T15:18:24Z[UTC]",
+          "generatedOn" : "2022-02-15T15:18:24Z[UTC]",
+          "id" : "02F73141-392F-4B14-AE62-0DFE6BE60F10",
+          "index" : 5900,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-15T15:12:32Z[UTC]",
+          "text" : "99.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-201",
+        "name" : "battery-event-5925",
+        "path" : "/test-input-trace/battery-event-5925",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-15T15:20:04Z[UTC]",
+          "generatedOn" : "2022-02-15T15:20:07Z[UTC]",
+          "id" : "D1AFAAD8-8F9D-4123-9774-F2AE25191974",
+          "index" : 5925,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-15T15:18:24Z[UTC]",
+          "text" : "98.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-202",
+        "name" : "battery-event-5985",
+        "path" : "/test-input-trace/battery-event-5985",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-15T15:31:40Z[UTC]",
+          "generatedOn" : "2022-02-15T15:31:40Z[UTC]",
+          "id" : "27943628-48C8-4262-BAA3-06B0359B8677",
+          "index" : 5985,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-15T15:20:04Z[UTC]",
+          "text" : "97.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-203",
+        "name" : "battery-event-5992",
+        "path" : "/test-input-trace/battery-event-5992",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-15T15:34:44Z[UTC]",
+          "generatedOn" : "2022-02-15T15:34:45Z[UTC]",
+          "id" : "DEC04651-3AD3-41BE-80E9-CC4A46D7B1E9",
+          "index" : 5992,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-15T15:31:40Z[UTC]",
+          "text" : "96.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-204",
+        "name" : "battery-event-6012",
+        "path" : "/test-input-trace/battery-event-6012",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-15T15:38:32Z[UTC]",
+          "generatedOn" : "2022-02-15T15:38:32Z[UTC]",
+          "id" : "7BC24731-6079-4A35-A880-E8DED64F7243",
+          "index" : 6012,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-15T15:34:44Z[UTC]",
+          "text" : "95.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-205",
+        "name" : "battery-event-6077",
+        "path" : "/test-input-trace/battery-event-6077",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-15T15:45:36Z[UTC]",
+          "generatedOn" : "2022-02-15T15:45:39Z[UTC]",
+          "id" : "9CDD7717-768B-45CB-AA53-BDA3B60D4E10",
+          "index" : 6077,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-15T15:38:32Z[UTC]",
+          "text" : "94.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-206",
+        "name" : "battery-event-6149",
+        "path" : "/test-input-trace/battery-event-6149",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-15T15:54:44Z[UTC]",
+          "generatedOn" : "2022-02-15T15:54:47Z[UTC]",
+          "id" : "B455AF87-C2EE-4010-A47A-A8B7B5637BC3",
+          "index" : 6149,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-15T15:45:36Z[UTC]",
+          "text" : "93.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-207",
+        "name" : "battery-event-6161",
+        "path" : "/test-input-trace/battery-event-6161",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-15T15:57:28Z[UTC]",
+          "generatedOn" : "2022-02-15T15:57:31Z[UTC]",
+          "id" : "1C62F7B6-EB2A-4691-9C95-92E72FED31D0",
+          "index" : 6161,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-15T15:54:44Z[UTC]",
+          "text" : "92.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-208",
+        "name" : "battery-event-6241",
+        "path" : "/test-input-trace/battery-event-6241",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-16T10:33:52Z[UTC]",
+          "generatedOn" : "2022-02-16T10:33:54Z[UTC]",
+          "id" : "6A052022-AE97-47CC-9A5F-FF1B491F5011",
+          "index" : 6241,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-16T10:32:52Z[UTC]",
+          "text" : "85.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-209",
+        "name" : "battery-event-6274",
+        "path" : "/test-input-trace/battery-event-6274",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-16T10:37:20Z[UTC]",
+          "generatedOn" : "2022-02-16T10:37:22Z[UTC]",
+          "id" : "BA4BCFB7-F62E-47D8-9F40-F9522A2753A0",
+          "index" : 6274,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-16T10:33:52Z[UTC]",
+          "text" : "84.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-210",
+        "name" : "battery-event-6366",
+        "path" : "/test-input-trace/battery-event-6366",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-16T13:59:28Z[UTC]",
+          "generatedOn" : "2022-02-16T13:59:30Z[UTC]",
+          "id" : "0D332FB4-4157-4B5B-B383-FE7152336C15",
+          "index" : 6366,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-16T13:59:08Z[UTC]",
+          "text" : "83.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-211",
+        "name" : "battery-event-6386",
+        "path" : "/test-input-trace/battery-event-6386",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-16T14:01:12Z[UTC]",
+          "generatedOn" : "2022-02-16T14:01:15Z[UTC]",
+          "id" : "A5EE0DF4-E75E-40E3-8400-22E34BD6F381",
+          "index" : 6386,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-16T13:59:28Z[UTC]",
+          "text" : "82.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-212",
+        "name" : "battery-event-6390",
+        "path" : "/test-input-trace/battery-event-6390",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-16T14:03:20Z[UTC]",
+          "generatedOn" : "2022-02-16T14:03:20Z[UTC]",
+          "id" : "FC637441-1A8B-4E7D-B69C-44FD1B52441B",
+          "index" : 6390,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-16T14:01:12Z[UTC]",
+          "text" : "81.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-213",
+        "name" : "battery-event-6399",
+        "path" : "/test-input-trace/battery-event-6399",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-16T14:08:08Z[UTC]",
+          "generatedOn" : "2022-02-16T14:08:09Z[UTC]",
+          "id" : "10879A34-52AB-4777-A636-4F51451B29E4",
+          "index" : 6399,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-16T14:03:20Z[UTC]",
+          "text" : "80.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-214",
+        "name" : "battery-event-6431",
+        "path" : "/test-input-trace/battery-event-6431",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-16T14:10:52Z[UTC]",
+          "generatedOn" : "2022-02-16T14:10:55Z[UTC]",
+          "id" : "938F5F07-7BCD-4835-870F-E758C5ABD693",
+          "index" : 6431,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-16T14:08:08Z[UTC]",
+          "text" : "79.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-215",
+        "name" : "battery-event-6497",
+        "path" : "/test-input-trace/battery-event-6497",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-16T16:05:28Z[UTC]",
+          "generatedOn" : "2022-02-16T16:05:28Z[UTC]",
+          "id" : "A34FD25F-8BB5-47B6-8226-9147D8A6B281",
+          "index" : 6497,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-16T16:04:44Z[UTC]",
+          "text" : "79.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-216",
+        "name" : "battery-event-6504",
+        "path" : "/test-input-trace/battery-event-6504",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-16T16:06:28Z[UTC]",
+          "generatedOn" : "2022-02-16T16:06:30Z[UTC]",
+          "id" : "E009A6E1-0023-43DC-B8FD-6A7C82CFED1F",
+          "index" : 6504,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-16T16:05:28Z[UTC]",
+          "text" : "78.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-217",
+        "name" : "battery-event-6532",
+        "path" : "/test-input-trace/battery-event-6532",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-16T16:10:20Z[UTC]",
+          "generatedOn" : "2022-02-16T16:10:20Z[UTC]",
+          "id" : "EDA41ED2-190E-45B5-BF57-D5F859878711",
+          "index" : 6532,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-16T16:06:28Z[UTC]",
+          "text" : "77.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-218",
+        "name" : "battery-event-6567",
+        "path" : "/test-input-trace/battery-event-6567",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-16T16:13:04Z[UTC]",
+          "generatedOn" : "2022-02-16T16:13:05Z[UTC]",
+          "id" : "85E5EE85-E7AD-4676-810D-9B64C296C845",
+          "index" : 6567,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-16T16:10:20Z[UTC]",
+          "text" : "76.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-219",
+        "name" : "battery-event-6614",
+        "path" : "/test-input-trace/battery-event-6614",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-16T16:17:20Z[UTC]",
+          "generatedOn" : "2022-02-16T16:17:21Z[UTC]",
+          "id" : "9C36F5A1-9F70-4405-9C67-CA1C85C80910",
+          "index" : 6614,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-16T16:13:04Z[UTC]",
+          "text" : "75.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-220",
+        "name" : "battery-event-6658",
+        "path" : "/test-input-trace/battery-event-6658",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-16T16:20:44Z[UTC]",
+          "generatedOn" : "2022-02-16T16:20:47Z[UTC]",
+          "id" : "5B5EDB0C-2194-4E0B-A907-4FA5F1C02EB4",
+          "index" : 6658,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-16T16:17:20Z[UTC]",
+          "text" : "74.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-221",
+        "name" : "battery-event-6695",
+        "path" : "/test-input-trace/battery-event-6695",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-16T16:24:52Z[UTC]",
+          "generatedOn" : "2022-02-16T16:24:54Z[UTC]",
+          "id" : "E15887C7-63EA-4E65-9047-21B7C92380B5",
+          "index" : 6695,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-16T16:20:44Z[UTC]",
+          "text" : "73.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-222",
+        "name" : "battery-event-6730",
+        "path" : "/test-input-trace/battery-event-6730",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-16T16:29Z[UTC]",
+          "generatedOn" : "2022-02-16T16:29:01Z[UTC]",
+          "id" : "4679A408-0CD2-452B-9432-B2E1ED48FA98",
+          "index" : 6730,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-16T16:24:52Z[UTC]",
+          "text" : "72.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-223",
+        "name" : "battery-event-6828",
+        "path" : "/test-input-trace/battery-event-6828",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-17T10:36:12Z[UTC]",
+          "generatedOn" : "2022-02-17T10:36:12Z[UTC]",
+          "id" : "3E4C10E1-F9AF-4104-A276-C4EAEE41B200",
+          "index" : 6828,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-17T10:33:44Z[UTC]",
+          "text" : "65.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-224",
+        "name" : "battery-event-6833",
+        "path" : "/test-input-trace/battery-event-6833",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-17T10:38:16Z[UTC]",
+          "generatedOn" : "2022-02-17T10:38:17Z[UTC]",
+          "id" : "9A3FC57A-BB84-4795-A46B-51020847221B",
+          "index" : 6833,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-17T10:36:12Z[UTC]",
+          "text" : "64.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-225",
+        "name" : "battery-event-6861",
+        "path" : "/test-input-trace/battery-event-6861",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-17T10:41Z[UTC]",
+          "generatedOn" : "2022-02-17T10:41:02Z[UTC]",
+          "id" : "61039C89-82EA-4373-9CD7-5AC9FDB21E2B",
+          "index" : 6861,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-17T10:38:16Z[UTC]",
+          "text" : "63.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-226",
+        "name" : "battery-event-6921",
+        "path" : "/test-input-trace/battery-event-6921",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-17T17:06:28Z[UTC]",
+          "generatedOn" : "2022-02-17T17:06:31Z[UTC]",
+          "id" : "2111C487-D7A6-4345-BD4F-43A8C506E702",
+          "index" : 6921,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-17T17:06:08Z[UTC]",
+          "text" : "58.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-227",
+        "name" : "battery-event-6971",
+        "path" : "/test-input-trace/battery-event-6971",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-17T17:08:56Z[UTC]",
+          "generatedOn" : "2022-02-17T17:08:56Z[UTC]",
+          "id" : "90A0CBDF-B0C3-41C7-BBFD-4738B9F8069C",
+          "index" : 6971,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-17T17:06:28Z[UTC]",
+          "text" : "57.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-228",
+        "name" : "battery-event-6978",
+        "path" : "/test-input-trace/battery-event-6978",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-17T17:10:20Z[UTC]",
+          "generatedOn" : "2022-02-17T17:10:20Z[UTC]",
+          "id" : "CE7D849B-E9CD-4902-9091-0A5BB950167C",
+          "index" : 6978,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-17T17:08:56Z[UTC]",
+          "text" : "56.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-229",
+        "name" : "battery-event-7008",
+        "path" : "/test-input-trace/battery-event-7008",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-17T17:12:24Z[UTC]",
+          "generatedOn" : "2022-02-17T17:12:24Z[UTC]",
+          "id" : "C81D8B11-B343-4129-9B0D-0120C2BEDDCD",
+          "index" : 7008,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-17T17:10:20Z[UTC]",
+          "text" : "55.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-230",
+        "name" : "battery-event-7052",
+        "path" : "/test-input-trace/battery-event-7052",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-17T17:15:28Z[UTC]",
+          "generatedOn" : "2022-02-17T17:15:30Z[UTC]",
+          "id" : "A4DC8C41-D39E-4F52-B13F-5584F2E84056",
+          "index" : 7052,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-17T17:12:24Z[UTC]",
+          "text" : "54.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-231",
+        "name" : "battery-event-7128",
+        "path" : "/test-input-trace/battery-event-7128",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-18T11:00:24Z[UTC]",
+          "generatedOn" : "2022-02-18T11:00:35Z[UTC]",
+          "id" : "3C08D7C6-7815-4F36-8C76-599C5B740EAF",
+          "index" : 7128,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-18T11:00:04Z[UTC]",
+          "text" : "50.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-232",
+        "name" : "battery-event-7132",
+        "path" : "/test-input-trace/battery-event-7132",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-18T11:00:44Z[UTC]",
+          "generatedOn" : "2022-02-18T11:00:46Z[UTC]",
+          "id" : "88DA0E1F-D042-4DC3-81B6-B496C74DFE29",
+          "index" : 7132,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-18T11:00:24Z[UTC]",
+          "text" : "49.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-233",
+        "name" : "battery-event-7141",
+        "path" : "/test-input-trace/battery-event-7141",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-18T11:02:08Z[UTC]",
+          "generatedOn" : "2022-02-18T11:02:09Z[UTC]",
+          "id" : "408C10F5-8939-4505-AEB1-CA58AF80B9AD",
+          "index" : 7141,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-18T11:00:44Z[UTC]",
+          "text" : "48.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-234",
+        "name" : "battery-event-7149",
+        "path" : "/test-input-trace/battery-event-7149",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-18T11:06:40Z[UTC]",
+          "generatedOn" : "2022-02-18T11:06:40Z[UTC]",
+          "id" : "42500FB8-3201-444E-ADB4-948E6B8216D0",
+          "index" : 7149,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-18T11:02:08Z[UTC]",
+          "text" : "47.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-235",
+        "name" : "battery-event-7223",
+        "path" : "/test-input-trace/battery-event-7223",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T10:26:20Z[UTC]",
+          "generatedOn" : "2022-02-22T10:26:23Z[UTC]",
+          "id" : "138937EE-CDEB-4D7C-9A2A-078C28703DF1",
+          "index" : 7223,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T10:25:16Z[UTC]",
+          "text" : "20.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-236",
+        "name" : "battery-event-7245",
+        "path" : "/test-input-trace/battery-event-7245",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T10:29:28Z[UTC]",
+          "generatedOn" : "2022-02-22T10:29:31Z[UTC]",
+          "id" : "6021B359-26C7-4521-B949-995C07A9AAA9",
+          "index" : 7245,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T10:26:20Z[UTC]",
+          "text" : "19.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-237",
+        "name" : "battery-event-7246",
+        "path" : "/test-input-trace/battery-event-7246",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T10:29:48Z[UTC]",
+          "generatedOn" : "2022-02-22T10:29:51Z[UTC]",
+          "id" : "3C5C9997-C75F-46EF-B052-CF94063EE000",
+          "index" : 7246,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T10:29:28Z[UTC]",
+          "text" : "18.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-238",
+        "name" : "battery-event-7264",
+        "path" : "/test-input-trace/battery-event-7264",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T11:08:04Z[UTC]",
+          "generatedOn" : "2022-02-22T11:08:07Z[UTC]",
+          "id" : "DD6DF825-D568-441A-821C-D6ECB4CA90F1",
+          "index" : 7264,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T10:29:48Z[UTC]",
+          "text" : "17.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-239",
+        "name" : "battery-event-7277",
+        "path" : "/test-input-trace/battery-event-7277",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T11:09:32Z[UTC]",
+          "generatedOn" : "2022-02-22T11:09:32Z[UTC]",
+          "id" : "B419E1DB-5CE5-492C-934F-7D3736BDD95A",
+          "index" : 7277,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T11:08:04Z[UTC]",
+          "text" : "16.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-240",
+        "name" : "battery-event-7278",
+        "path" : "/test-input-trace/battery-event-7278",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T11:11:12Z[UTC]",
+          "generatedOn" : "2022-02-22T11:11:12Z[UTC]",
+          "id" : "B839D8F6-6193-4036-B71A-C94D5633175D",
+          "index" : 7278,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T11:09:32Z[UTC]",
+          "text" : "18.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-241",
+        "name" : "battery-event-7280",
+        "path" : "/test-input-trace/battery-event-7280",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T11:12:52Z[UTC]",
+          "generatedOn" : "2022-02-22T11:12:52Z[UTC]",
+          "id" : "4BEFFDB2-0E3A-49BC-AF9F-A857A00ADBEB",
+          "index" : 7280,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T11:11:12Z[UTC]",
+          "text" : "19.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-242",
+        "name" : "battery-event-7282",
+        "path" : "/test-input-trace/battery-event-7282",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T11:23:36Z[UTC]",
+          "generatedOn" : "2022-02-22T11:23:36Z[UTC]",
+          "id" : "286396AC-3B1A-4750-B22E-B21DB4DD2718",
+          "index" : 7282,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T11:12:52Z[UTC]",
+          "text" : "21.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-243",
+        "name" : "battery-event-7283",
+        "path" : "/test-input-trace/battery-event-7283",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T11:26:32Z[UTC]",
+          "generatedOn" : "2022-02-22T11:26:33Z[UTC]",
+          "id" : "788D5539-9ADC-4BB4-AF93-8B3E4D715E9D",
+          "index" : 7283,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T11:23:36Z[UTC]",
+          "text" : "30.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-244",
+        "name" : "battery-event-7285",
+        "path" : "/test-input-trace/battery-event-7285",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T11:28:12Z[UTC]",
+          "generatedOn" : "2022-02-22T11:28:13Z[UTC]",
+          "id" : "E5D34990-3DFB-41FC-9D69-A85FB826D14C",
+          "index" : 7285,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T11:26:32Z[UTC]",
+          "text" : "33.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-245",
+        "name" : "battery-event-7286",
+        "path" : "/test-input-trace/battery-event-7286",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T11:39:36Z[UTC]",
+          "generatedOn" : "2022-02-22T11:39:39Z[UTC]",
+          "id" : "885D8CC9-705B-4F35-91F1-75ABF1FDBBBE",
+          "index" : 7286,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T11:28:12Z[UTC]",
+          "text" : "34.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-246",
+        "name" : "battery-event-7288",
+        "path" : "/test-input-trace/battery-event-7288",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T11:44:56Z[UTC]",
+          "generatedOn" : "2022-02-22T11:44:56Z[UTC]",
+          "id" : "74F58BBC-7603-488D-AEF3-030FA001D892",
+          "index" : 7288,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T11:39:36Z[UTC]",
+          "text" : "44.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-247",
+        "name" : "battery-event-7290",
+        "path" : "/test-input-trace/battery-event-7290",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T11:47:24Z[UTC]",
+          "generatedOn" : "2022-02-22T11:47:26Z[UTC]",
+          "id" : "D2F63C7C-2193-49A0-9A0F-F3469E3F2A54",
+          "index" : 7290,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T11:44:56Z[UTC]",
+          "text" : "49.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-248",
+        "name" : "battery-event-7292",
+        "path" : "/test-input-trace/battery-event-7292",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T11:55Z[UTC]",
+          "generatedOn" : "2022-02-22T11:55:01Z[UTC]",
+          "id" : "B6079EB7-1112-44E3-A60C-AAB6C1727F97",
+          "index" : 7292,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T11:47:24Z[UTC]",
+          "text" : "51.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-249",
+        "name" : "battery-event-7293",
+        "path" : "/test-input-trace/battery-event-7293",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T11:56:32Z[UTC]",
+          "generatedOn" : "2022-02-22T11:56:34Z[UTC]",
+          "id" : "2F74D9F2-8691-41BB-BA90-2ADD60971330",
+          "index" : 7293,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T11:55Z[UTC]",
+          "text" : "58.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-250",
+        "name" : "battery-event-7314",
+        "path" : "/test-input-trace/battery-event-7314",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T11:57:52Z[UTC]",
+          "generatedOn" : "2022-02-22T11:57:55Z[UTC]",
+          "id" : "B1E84FFB-DDCB-4211-B778-D636A13E60D9",
+          "index" : 7314,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T11:56:32Z[UTC]",
+          "text" : "59.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-251",
+        "name" : "battery-event-7315",
+        "path" : "/test-input-trace/battery-event-7315",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T11:58:40Z[UTC]",
+          "generatedOn" : "2022-02-22T11:58:41Z[UTC]",
+          "id" : "CE42DA06-AF90-4D4E-9790-F9F14E7EDF28",
+          "index" : 7315,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T11:57:52Z[UTC]",
+          "text" : "60.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-252",
+        "name" : "battery-event-7316",
+        "path" : "/test-input-trace/battery-event-7316",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:00:24Z[UTC]",
+          "generatedOn" : "2022-02-22T12:00:25Z[UTC]",
+          "id" : "A93AB11F-8764-4730-9196-CC9BDBCB04C5",
+          "index" : 7316,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T11:58:40Z[UTC]",
+          "text" : "61.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-253",
+        "name" : "battery-event-7317",
+        "path" : "/test-input-trace/battery-event-7317",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:05:04Z[UTC]",
+          "generatedOn" : "2022-02-22T12:05:04Z[UTC]",
+          "id" : "89767533-DF56-4321-A0F4-379E90665AE2",
+          "index" : 7317,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:00:24Z[UTC]",
+          "text" : "62.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-254",
+        "name" : "battery-event-7318",
+        "path" : "/test-input-trace/battery-event-7318",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:07:52Z[UTC]",
+          "generatedOn" : "2022-02-22T12:07:52Z[UTC]",
+          "id" : "D44914D3-9082-4FDC-98F0-DAB365DD69F3",
+          "index" : 7318,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:05:04Z[UTC]",
+          "text" : "66.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-255",
+        "name" : "battery-event-7320",
+        "path" : "/test-input-trace/battery-event-7320",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:10:04Z[UTC]",
+          "generatedOn" : "2022-02-22T12:10:04Z[UTC]",
+          "id" : "D043A4E4-3214-45CF-87C9-B67E17525AE5",
+          "index" : 7320,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:07:52Z[UTC]",
+          "text" : "68.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-256",
+        "name" : "battery-event-7321",
+        "path" : "/test-input-trace/battery-event-7321",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:14:52Z[UTC]",
+          "generatedOn" : "2022-02-22T12:14:55Z[UTC]",
+          "id" : "90E246F2-853A-497A-BFD2-02DE947777DB",
+          "index" : 7321,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:10:04Z[UTC]",
+          "text" : "70.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-257",
+        "name" : "battery-event-7322",
+        "path" : "/test-input-trace/battery-event-7322",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:15:32Z[UTC]",
+          "generatedOn" : "2022-02-22T12:15:33Z[UTC]",
+          "id" : "EFFB4562-553E-4E20-83D8-04DDFA695362",
+          "index" : 7322,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:14:52Z[UTC]",
+          "text" : "74.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-258",
+        "name" : "battery-event-7333",
+        "path" : "/test-input-trace/battery-event-7333",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:17:24Z[UTC]",
+          "generatedOn" : "2022-02-22T12:17:26Z[UTC]",
+          "id" : "4CA9B567-46DD-409B-80DC-D7140E649135",
+          "index" : 7333,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:15:32Z[UTC]",
+          "text" : "75.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-259",
+        "name" : "battery-event-7336",
+        "path" : "/test-input-trace/battery-event-7336",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:21:32Z[UTC]",
+          "generatedOn" : "2022-02-22T12:21:35Z[UTC]",
+          "id" : "B8F11AD4-9E61-4A4F-BCA2-401DC267A442",
+          "index" : 7336,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:17:24Z[UTC]",
+          "text" : "76.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-260",
+        "name" : "battery-event-7344",
+        "path" : "/test-input-trace/battery-event-7344",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:23:36Z[UTC]",
+          "generatedOn" : "2022-02-22T12:23:39Z[UTC]",
+          "id" : "2AD9320A-5DF9-4D8C-9E35-1B379353F8EC",
+          "index" : 7344,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:21:32Z[UTC]",
+          "text" : "80.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-261",
+        "name" : "battery-event-7346",
+        "path" : "/test-input-trace/battery-event-7346",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:25:40Z[UTC]",
+          "generatedOn" : "2022-02-22T12:25:43Z[UTC]",
+          "id" : "A3F9E4B0-597F-4CDA-B44A-098C487704D7",
+          "index" : 7346,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:23:36Z[UTC]",
+          "text" : "81.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-262",
+        "name" : "battery-event-7361",
+        "path" : "/test-input-trace/battery-event-7361",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:33:40Z[UTC]",
+          "generatedOn" : "2022-02-22T12:33:41Z[UTC]",
+          "id" : "FC662E96-960E-43A2-B18C-CA8C89F293F1",
+          "index" : 7361,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:25:40Z[UTC]",
+          "text" : "82.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-263",
+        "name" : "battery-event-7362",
+        "path" : "/test-input-trace/battery-event-7362",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:36:32Z[UTC]",
+          "generatedOn" : "2022-02-22T12:36:34Z[UTC]",
+          "id" : "4091FE4A-CC40-4632-B57C-EE560CC8690A",
+          "index" : 7362,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:33:40Z[UTC]",
+          "text" : "83.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-264",
+        "name" : "battery-event-7364",
+        "path" : "/test-input-trace/battery-event-7364",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:40:04Z[UTC]",
+          "generatedOn" : "2022-02-22T12:40:04Z[UTC]",
+          "id" : "D96C5470-56AA-428C-825E-C61C7FFB401C",
+          "index" : 7364,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:36:32Z[UTC]",
+          "text" : "85.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-265",
+        "name" : "battery-event-7365",
+        "path" : "/test-input-trace/battery-event-7365",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:44:56Z[UTC]",
+          "generatedOn" : "2022-02-22T12:44:56Z[UTC]",
+          "id" : "C7E19074-5055-4C0F-B665-723A9B1234F7",
+          "index" : 7365,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:40:04Z[UTC]",
+          "text" : "88.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-266",
+        "name" : "battery-event-7366",
+        "path" : "/test-input-trace/battery-event-7366",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:47:36Z[UTC]",
+          "generatedOn" : "2022-02-22T12:47:36Z[UTC]",
+          "id" : "94A57274-587D-416B-B7D6-5A690C2402EB",
+          "index" : 7366,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:44:56Z[UTC]",
+          "text" : "91.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-267",
+        "name" : "battery-event-7369",
+        "path" : "/test-input-trace/battery-event-7369",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:51:32Z[UTC]",
+          "generatedOn" : "2022-02-22T12:51:35Z[UTC]",
+          "id" : "5E372F5B-B452-4D3A-9822-265E95D7DDD9",
+          "index" : 7369,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:47:36Z[UTC]",
+          "text" : "92.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-268",
+        "name" : "battery-event-7373",
+        "path" : "/test-input-trace/battery-event-7373",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T12:53:04Z[UTC]",
+          "generatedOn" : "2022-02-22T12:53:07Z[UTC]",
+          "id" : "9596B1F3-96CE-41C9-8FCF-C9F17F91D996",
+          "index" : 7373,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:51:32Z[UTC]",
+          "text" : "93.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-269",
+        "name" : "battery-event-7374",
+        "path" : "/test-input-trace/battery-event-7374",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T13:02:32Z[UTC]",
+          "generatedOn" : "2022-02-22T13:02:35Z[UTC]",
+          "id" : "C0093A9C-B2D6-4097-9D70-3598F9EF5044",
+          "index" : 7374,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T12:53:04Z[UTC]",
+          "text" : "94.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-270",
+        "name" : "battery-event-7378",
+        "path" : "/test-input-trace/battery-event-7378",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T13:07:52Z[UTC]",
+          "generatedOn" : "2022-02-22T13:07:52Z[UTC]",
+          "id" : "CFA9548F-2B48-4C67-BE58-4FC5E99CD072",
+          "index" : 7378,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T13:02:32Z[UTC]",
+          "text" : "96.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-271",
+        "name" : "battery-event-7379",
+        "path" : "/test-input-trace/battery-event-7379",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T13:10Z[UTC]",
+          "generatedOn" : "2022-02-22T13:10:03Z[UTC]",
+          "id" : "CBD9B90B-E0BE-445C-82B9-29ACA7E620B4",
+          "index" : 7379,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T13:07:52Z[UTC]",
+          "text" : "97.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-272",
+        "name" : "battery-event-7380",
+        "path" : "/test-input-trace/battery-event-7380",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T13:20:04Z[UTC]",
+          "generatedOn" : "2022-02-22T13:20:04Z[UTC]",
+          "id" : "D47AF962-23CC-41FD-AE29-258D1FFD535F",
+          "index" : 7380,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T13:10Z[UTC]",
+          "text" : "98.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-273",
+        "name" : "battery-event-7382",
+        "path" : "/test-input-trace/battery-event-7382",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T13:30:32Z[UTC]",
+          "generatedOn" : "2022-02-22T13:30:34Z[UTC]",
+          "id" : "D11CCF6A-B08F-4855-A0D6-F84D9C6AA384",
+          "index" : 7382,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T13:20:04Z[UTC]",
+          "text" : "99.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-274",
+        "name" : "battery-event-7410",
+        "path" : "/test-input-trace/battery-event-7410",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T15:09:16Z[UTC]",
+          "generatedOn" : "2022-02-22T15:09:18Z[UTC]",
+          "id" : "EBDEC583-C9FD-4309-BED8-2148C996C101",
+          "index" : 7410,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T13:30:32Z[UTC]",
+          "text" : "100.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-275",
+        "name" : "battery-event-7413",
+        "path" : "/test-input-trace/battery-event-7413",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T15:09:16Z[UTC]",
+          "generatedOn" : "2022-02-22T15:09:18Z[UTC]",
+          "id" : "B6532A3D-A68D-40AC-9023-3200C5F94F8C",
+          "index" : 7413,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T15:09:16Z[UTC]",
+          "text" : "100.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-276",
+        "name" : "battery-event-7417",
+        "path" : "/test-input-trace/battery-event-7417",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T15:09:20Z[UTC]",
+          "generatedOn" : "2022-02-22T15:09:22Z[UTC]",
+          "id" : "040387A2-018D-442C-9A75-ADCAF18904BF",
+          "index" : 7417,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T15:09:16Z[UTC]",
+          "text" : "100.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-277",
+        "name" : "battery-event-7418",
+        "path" : "/test-input-trace/battery-event-7418",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T15:09:20Z[UTC]",
+          "generatedOn" : "2022-02-22T15:09:22Z[UTC]",
+          "id" : "58B390EA-AC4A-4D79-8688-B9754D31A31C",
+          "index" : 7418,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T15:09:20Z[UTC]",
+          "text" : "100.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-278",
+        "name" : "battery-event-7542",
+        "path" : "/test-input-trace/battery-event-7542",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T18:00:16Z[UTC]",
+          "generatedOn" : "2022-02-22T18:00:17Z[UTC]",
+          "id" : "510BCAC8-EE37-4436-AB8E-BA3D95DFF058",
+          "index" : 7542,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T17:56:28Z[UTC]",
+          "text" : "99.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-279",
+        "name" : "battery-event-7592",
+        "path" : "/test-input-trace/battery-event-7592",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T18:03:20Z[UTC]",
+          "generatedOn" : "2022-02-22T18:03:22Z[UTC]",
+          "id" : "B3301808-4B5D-40B6-8E20-F46B9781B945",
+          "index" : 7592,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T18:00:16Z[UTC]",
+          "text" : "98.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-280",
+        "name" : "battery-event-7626",
+        "path" : "/test-input-trace/battery-event-7626",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T18:06:48Z[UTC]",
+          "generatedOn" : "2022-02-22T18:06:48Z[UTC]",
+          "id" : "48C83749-8537-47A1-A086-74AC942DD2AD",
+          "index" : 7626,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T18:03:20Z[UTC]",
+          "text" : "97.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-281",
+        "name" : "battery-event-7646",
+        "path" : "/test-input-trace/battery-event-7646",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-22T18:10:32Z[UTC]",
+          "generatedOn" : "2022-02-22T18:10:34Z[UTC]",
+          "id" : "42C4E058-F1CC-4943-80E3-C9131C273070",
+          "index" : 7646,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-22T18:06:48Z[UTC]",
+          "text" : "96.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-282",
+        "name" : "battery-event-7748",
+        "path" : "/test-input-trace/battery-event-7748",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-23T20:14:08Z[UTC]",
+          "generatedOn" : "2022-02-23T20:14:08Z[UTC]",
+          "id" : "D87A2730-C288-42C5-8126-85A0DD2C18E2",
+          "index" : 7748,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-23T20:12:20Z[UTC]",
+          "text" : "94.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-283",
+        "name" : "battery-event-7762",
+        "path" : "/test-input-trace/battery-event-7762",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-23T20:17:56Z[UTC]",
+          "generatedOn" : "2022-02-23T20:17:57Z[UTC]",
+          "id" : "F9344C64-ADB8-4B4E-8D87-C269939C9A0C",
+          "index" : 7762,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-23T20:14:08Z[UTC]",
+          "text" : "93.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-284",
+        "name" : "battery-event-7857",
+        "path" : "/test-input-trace/battery-event-7857",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-23T20:36:08Z[UTC]",
+          "generatedOn" : "2022-02-23T20:36:10Z[UTC]",
+          "id" : "03CF913F-66C3-4636-B919-9FBC2B76772A",
+          "index" : 7857,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-23T20:35:48Z[UTC]",
+          "text" : "92.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-285",
+        "name" : "battery-event-7872",
+        "path" : "/test-input-trace/battery-event-7872",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-23T20:41:20Z[UTC]",
+          "generatedOn" : "2022-02-23T20:41:23Z[UTC]",
+          "id" : "8FBB5B8E-FA3C-460D-AE50-F6C052F7ED16",
+          "index" : 7872,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-23T20:36:08Z[UTC]",
+          "text" : "91.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-286",
+        "name" : "battery-event-7912",
+        "path" : "/test-input-trace/battery-event-7912",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-23T20:44:28Z[UTC]",
+          "generatedOn" : "2022-02-23T20:44:28Z[UTC]",
+          "id" : "CFF85658-DD17-412C-B7C4-05F072619C5C",
+          "index" : 7912,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-23T20:41:20Z[UTC]",
+          "text" : "90.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-287",
+        "name" : "battery-event-7939",
+        "path" : "/test-input-trace/battery-event-7939",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-23T20:51:20Z[UTC]",
+          "generatedOn" : "2022-02-23T20:51:20Z[UTC]",
+          "id" : "23104FA7-EE74-46EB-8C7F-0F3B124C012C",
+          "index" : 7939,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-23T20:44:28Z[UTC]",
+          "text" : "89.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-288",
+        "name" : "battery-event-7991",
+        "path" : "/test-input-trace/battery-event-7991",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-23T20:54:44Z[UTC]",
+          "generatedOn" : "2022-02-23T20:54:46Z[UTC]",
+          "id" : "84F0EBEC-9451-4839-8248-59B4F2E79CE7",
+          "index" : 7991,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-23T20:51:20Z[UTC]",
+          "text" : "88.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-289",
+        "name" : "battery-event-8008",
+        "path" : "/test-input-trace/battery-event-8008",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-23T20:56:48Z[UTC]",
+          "generatedOn" : "2022-02-23T20:56:49Z[UTC]",
+          "id" : "7B2E7B0F-0C04-4C6E-9E00-F189992B6B8D",
+          "index" : 8008,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-23T20:54:44Z[UTC]",
+          "text" : "87.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-290",
+        "name" : "battery-event-8083",
+        "path" : "/test-input-trace/battery-event-8083",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T11:01:28Z[UTC]",
+          "generatedOn" : "2022-02-25T11:01:31Z[UTC]",
+          "id" : "6EC8BF7B-99FF-4366-8409-68C5F43F6DBE",
+          "index" : 8083,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T10:59:44Z[UTC]",
+          "text" : "85.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-291",
+        "name" : "battery-event-8089",
+        "path" : "/test-input-trace/battery-event-8089",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T11:05:40Z[UTC]",
+          "generatedOn" : "2022-02-25T11:05:41Z[UTC]",
+          "id" : "2E2011A9-B5E3-4EC0-B4FC-C4854BC6238E",
+          "index" : 8089,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T11:01:28Z[UTC]",
+          "text" : "84.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-292",
+        "name" : "battery-event-8096",
+        "path" : "/test-input-trace/battery-event-8096",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T11:09:24Z[UTC]",
+          "generatedOn" : "2022-02-25T11:09:27Z[UTC]",
+          "id" : "4949648F-5888-479F-B801-51EA48F75BE0",
+          "index" : 8096,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T11:05:40Z[UTC]",
+          "text" : "83.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-293",
+        "name" : "battery-event-8098",
+        "path" : "/test-input-trace/battery-event-8098",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T11:13:12Z[UTC]",
+          "generatedOn" : "2022-02-25T11:13:14Z[UTC]",
+          "id" : "7A9097C9-EEA7-4BF4-8BF1-DA4EB26589B8",
+          "index" : 8098,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T11:09:24Z[UTC]",
+          "text" : "82.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-294",
+        "name" : "battery-event-8134",
+        "path" : "/test-input-trace/battery-event-8134",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T11:16:16Z[UTC]",
+          "generatedOn" : "2022-02-25T11:16:16Z[UTC]",
+          "id" : "E3C3501A-BA5F-4E09-9936-73352E5B9641",
+          "index" : 8134,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T11:13:12Z[UTC]",
+          "text" : "81.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-295",
+        "name" : "battery-event-8160",
+        "path" : "/test-input-trace/battery-event-8160",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T11:17:36Z[UTC]",
+          "generatedOn" : "2022-02-25T11:17:39Z[UTC]",
+          "id" : "C981316E-CF04-4F0E-9F31-C2F19C91A778",
+          "index" : 8160,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T11:16:16Z[UTC]",
+          "text" : "80.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-296",
+        "name" : "battery-event-8217",
+        "path" : "/test-input-trace/battery-event-8217",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T11:26:24Z[UTC]",
+          "generatedOn" : "2022-02-25T11:26:26Z[UTC]",
+          "id" : "A0125A73-DC4E-44EC-AB0B-D6F17A32175D",
+          "index" : 8217,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T11:17:36Z[UTC]",
+          "text" : "81.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-297",
+        "name" : "battery-event-8323",
+        "path" : "/test-input-trace/battery-event-8323",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T11:35:32Z[UTC]",
+          "generatedOn" : "2022-02-25T11:35:34Z[UTC]",
+          "id" : "0862F115-DB6B-4D69-81C5-3CE4919B532A",
+          "index" : 8323,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T11:26:24Z[UTC]",
+          "text" : "82.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-298",
+        "name" : "battery-event-8330",
+        "path" : "/test-input-trace/battery-event-8330",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T11:44:52Z[UTC]",
+          "generatedOn" : "2022-02-25T11:44:54Z[UTC]",
+          "id" : "5E374F9E-E901-4133-A188-1E6C4D9F058E",
+          "index" : 8330,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T11:35:32Z[UTC]",
+          "text" : "83.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-299",
+        "name" : "battery-event-8337",
+        "path" : "/test-input-trace/battery-event-8337",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T11:57:20Z[UTC]",
+          "generatedOn" : "2022-02-25T11:57:22Z[UTC]",
+          "id" : "3441E3F3-599E-43D2-9BBA-62603545581C",
+          "index" : 8337,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T11:44:52Z[UTC]",
+          "text" : "84.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-300",
+        "name" : "battery-event-8339",
+        "path" : "/test-input-trace/battery-event-8339",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T12:00:28Z[UTC]",
+          "generatedOn" : "2022-02-25T12:00:28Z[UTC]",
+          "id" : "CBA4830F-1312-4C35-ACF6-7407C5669B65",
+          "index" : 8339,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T11:57:20Z[UTC]",
+          "text" : "83.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-301",
+        "name" : "battery-event-8421",
+        "path" : "/test-input-trace/battery-event-8421",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T12:30:20Z[UTC]",
+          "generatedOn" : "2022-02-25T12:30:23Z[UTC]",
+          "id" : "8C97C56C-6E8F-4C60-998E-843A4EF1F2B8",
+          "index" : 8421,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T12:30Z[UTC]",
+          "text" : "81.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-302",
+        "name" : "battery-event-8431",
+        "path" : "/test-input-trace/battery-event-8431",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T12:31:24Z[UTC]",
+          "generatedOn" : "2022-02-25T12:31:26Z[UTC]",
+          "id" : "87291AA1-417C-4E4B-A214-BB2ABB4ECDA3",
+          "index" : 8431,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T12:30:20Z[UTC]",
+          "text" : "80.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-303",
+        "name" : "battery-event-8462",
+        "path" : "/test-input-trace/battery-event-8462",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T12:36:28Z[UTC]",
+          "generatedOn" : "2022-02-25T12:36:30Z[UTC]",
+          "id" : "A52575BF-B0C7-4D41-920C-BC3F358ADB67",
+          "index" : 8462,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T12:31:24Z[UTC]",
+          "text" : "79.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-304",
+        "name" : "battery-event-8480",
+        "path" : "/test-input-trace/battery-event-8480",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T12:42:52Z[UTC]",
+          "generatedOn" : "2022-02-25T12:42:52Z[UTC]",
+          "id" : "88F0FC4A-8E26-4AC8-AE14-6F10473CE17C",
+          "index" : 8480,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T12:36:28Z[UTC]",
+          "text" : "78.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-305",
+        "name" : "battery-event-8502",
+        "path" : "/test-input-trace/battery-event-8502",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T12:46:16Z[UTC]",
+          "generatedOn" : "2022-02-25T12:46:18Z[UTC]",
+          "id" : "2AFE23C5-87AF-4B0F-BD98-76A14214D861",
+          "index" : 8502,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T12:42:52Z[UTC]",
+          "text" : "77.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-306",
+        "name" : "battery-event-8518",
+        "path" : "/test-input-trace/battery-event-8518",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T12:49:44Z[UTC]",
+          "generatedOn" : "2022-02-25T12:49:44Z[UTC]",
+          "id" : "5E77C994-437F-42C9-BB9F-D7FAAA6C31E2",
+          "index" : 8518,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T12:46:16Z[UTC]",
+          "text" : "76.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-307",
+        "name" : "battery-event-8519",
+        "path" : "/test-input-trace/battery-event-8519",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T12:52:28Z[UTC]",
+          "generatedOn" : "2022-02-25T12:52:29Z[UTC]",
+          "id" : "88BEC685-CB7F-4BDD-A95D-F31CF418DD07",
+          "index" : 8519,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T12:49:44Z[UTC]",
+          "text" : "75.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-308",
+        "name" : "battery-event-8524",
+        "path" : "/test-input-trace/battery-event-8524",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T12:55:12Z[UTC]",
+          "generatedOn" : "2022-02-25T12:55:14Z[UTC]",
+          "id" : "BDA8D379-7EB2-4E68-9ACD-427D89F220F7",
+          "index" : 8524,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T12:52:28Z[UTC]",
+          "text" : "74.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-309",
+        "name" : "battery-event-8546",
+        "path" : "/test-input-trace/battery-event-8546",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T12:57:36Z[UTC]",
+          "generatedOn" : "2022-02-25T12:57:38Z[UTC]",
+          "id" : "AC07CB2D-2B0C-441D-BBDC-B57D22A6E3A9",
+          "index" : 8546,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T12:55:12Z[UTC]",
+          "text" : "73.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-310",
+        "name" : "battery-event-8598",
+        "path" : "/test-input-trace/battery-event-8598",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T13:00:20Z[UTC]",
+          "generatedOn" : "2022-02-25T13:00:22Z[UTC]",
+          "id" : "C447DA88-F8E6-487E-A047-4651E8085358",
+          "index" : 8598,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T12:57:36Z[UTC]",
+          "text" : "72.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-311",
+        "name" : "battery-event-8629",
+        "path" : "/test-input-trace/battery-event-8629",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T13:04:28Z[UTC]",
+          "generatedOn" : "2022-02-25T13:04:29Z[UTC]",
+          "id" : "D24C957B-CD38-49AB-9710-AE9DB461DEE3",
+          "index" : 8629,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T13:00:20Z[UTC]",
+          "text" : "71.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-312",
+        "name" : "battery-event-8669",
+        "path" : "/test-input-trace/battery-event-8669",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T13:06:52Z[UTC]",
+          "generatedOn" : "2022-02-25T13:06:54Z[UTC]",
+          "id" : "3AD2DA94-08E2-4E9A-807D-A95228DFA16A",
+          "index" : 8669,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T13:04:28Z[UTC]",
+          "text" : "70.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-313",
+        "name" : "battery-event-8681",
+        "path" : "/test-input-trace/battery-event-8681",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T13:07:52Z[UTC]",
+          "generatedOn" : "2022-02-25T13:07:55Z[UTC]",
+          "id" : "7B6DA6C6-DFF4-404E-ABE1-AA68F02FF047",
+          "index" : 8681,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T13:06:52Z[UTC]",
+          "text" : "69.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-314",
+        "name" : "battery-event-8682",
+        "path" : "/test-input-trace/battery-event-8682",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T13:10:40Z[UTC]",
+          "generatedOn" : "2022-02-25T13:10:40Z[UTC]",
+          "id" : "DF883473-6C45-462D-A91A-2D1A1CFEE0DC",
+          "index" : 8682,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T13:07:52Z[UTC]",
+          "text" : "68.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-315",
+        "name" : "battery-event-8708",
+        "path" : "/test-input-trace/battery-event-8708",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T13:11:40Z[UTC]",
+          "generatedOn" : "2022-02-25T13:11:42Z[UTC]",
+          "id" : "E642F7F6-68DB-46B4-AAAE-8C36C700E323",
+          "index" : 8708,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T13:10:40Z[UTC]",
+          "text" : "67.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-316",
+        "name" : "battery-event-8739",
+        "path" : "/test-input-trace/battery-event-8739",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T13:12:44Z[UTC]",
+          "generatedOn" : "2022-02-25T13:12:44Z[UTC]",
+          "id" : "182EF1A2-2F64-4830-BF34-CAA86478CB64",
+          "index" : 8739,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T13:11:40Z[UTC]",
+          "text" : "66.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-317",
+        "name" : "battery-event-8745",
+        "path" : "/test-input-trace/battery-event-8745",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T13:13:44Z[UTC]",
+          "generatedOn" : "2022-02-25T13:13:46Z[UTC]",
+          "id" : "86AB8A2E-673E-49C0-BC39-5785E2A1CCAB",
+          "index" : 8745,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T13:12:44Z[UTC]",
+          "text" : "65.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-318",
+        "name" : "battery-event-8748",
+        "path" : "/test-input-trace/battery-event-8748",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T13:16:48Z[UTC]",
+          "generatedOn" : "2022-02-25T13:16:51Z[UTC]",
+          "id" : "46B4A6D8-3345-4A06-94F7-77CE69E03A44",
+          "index" : 8748,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T13:13:44Z[UTC]",
+          "text" : "64.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-319",
+        "name" : "battery-event-8749",
+        "path" : "/test-input-trace/battery-event-8749",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-25T13:19:56Z[UTC]",
+          "generatedOn" : "2022-02-25T13:19:56Z[UTC]",
+          "id" : "52EF2B64-5F2C-4DD2-A41C-A9E90B5324FC",
+          "index" : 8749,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-25T13:16:48Z[UTC]",
+          "text" : "63.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-320",
+        "name" : "battery-event-8825",
+        "path" : "/test-input-trace/battery-event-8825",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-28T16:09:32Z[UTC]",
+          "generatedOn" : "2022-02-28T16:09:34Z[UTC]",
+          "id" : "4BA62261-CBAD-488C-A393-69AF5B790254",
+          "index" : 8825,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-28T16:08:52Z[UTC]",
+          "text" : "43.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-321",
+        "name" : "battery-event-8832",
+        "path" : "/test-input-trace/battery-event-8832",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-02-28T16:10:36Z[UTC]",
+          "generatedOn" : "2022-02-28T16:10:36Z[UTC]",
+          "id" : "CAD56D9D-412A-4925-95D1-BB5E0DE5C8C5",
+          "index" : 8832,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-02-28T16:09:32Z[UTC]",
+          "text" : "42.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-322",
+        "name" : "battery-event-8933",
+        "path" : "/test-input-trace/battery-event-8933",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-03-02T08:44:56Z[UTC]",
+          "generatedOn" : "2022-03-02T08:44:57Z[UTC]",
+          "id" : "02B7A885-1C23-4E32-ABB5-752504769C88",
+          "index" : 8933,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-03-02T08:43:52Z[UTC]",
+          "text" : "31.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-323",
+        "name" : "battery-event-8934",
+        "path" : "/test-input-trace/battery-event-8934",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-03-02T08:46Z[UTC]",
+          "generatedOn" : "2022-03-02T08:46Z[UTC]",
+          "id" : "24728AA2-1B58-4756-8EAA-A3CE43AFDD4B",
+          "index" : 8934,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-03-02T08:44:56Z[UTC]",
+          "text" : "32.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-324",
+        "name" : "battery-event-8935",
+        "path" : "/test-input-trace/battery-event-8935",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-03-02T08:46:40Z[UTC]",
+          "generatedOn" : "2022-03-02T08:46:42Z[UTC]",
+          "id" : "2B768056-EF98-4107-9779-098BA26E2446",
+          "index" : 8935,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-03-02T08:46Z[UTC]",
+          "text" : "33.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-325",
+        "name" : "battery-event-8938",
+        "path" : "/test-input-trace/battery-event-8938",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-03-02T08:48:04Z[UTC]",
+          "generatedOn" : "2022-03-02T08:48:05Z[UTC]",
+          "id" : "6B58DF8E-61E6-435D-8230-9B1797F34122",
+          "index" : 8938,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-03-02T08:46:40Z[UTC]",
+          "text" : "34.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-326",
+        "name" : "battery-event-8941",
+        "path" : "/test-input-trace/battery-event-8941",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-03-02T08:49:04Z[UTC]",
+          "generatedOn" : "2022-03-02T08:49:07Z[UTC]",
+          "id" : "54EB78CC-F921-4229-8DB6-D30FF46BF93A",
+          "index" : 8941,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-03-02T08:48:04Z[UTC]",
+          "text" : "35.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-327",
+        "name" : "battery-event-8952",
+        "path" : "/test-input-trace/battery-event-8952",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-03-02T08:49:48Z[UTC]",
+          "generatedOn" : "2022-03-02T08:49:49Z[UTC]",
+          "id" : "676D23B1-1D79-46DC-96D4-B3FEAA85A2CE",
+          "index" : 8952,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-03-02T08:49:04Z[UTC]",
+          "text" : "36.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-328",
+        "name" : "battery-event-8961",
+        "path" : "/test-input-trace/battery-event-8961",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-03-02T08:50:48Z[UTC]",
+          "generatedOn" : "2022-03-02T08:50:51Z[UTC]",
+          "id" : "624D00D5-5B20-4E78-800A-8E472E7FF97C",
+          "index" : 8961,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-03-02T08:49:48Z[UTC]",
+          "text" : "37.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-329",
+        "name" : "battery-event-8965",
+        "path" : "/test-input-trace/battery-event-8965",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-03-02T08:51:52Z[UTC]",
+          "generatedOn" : "2022-03-02T08:51:53Z[UTC]",
+          "id" : "05D68F92-3F76-4DA0-BD14-D571E32E784C",
+          "index" : 8965,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-03-02T08:50:48Z[UTC]",
+          "text" : "38.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-330",
+        "name" : "battery-event-8981",
+        "path" : "/test-input-trace/battery-event-8981",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-03-02T08:52:32Z[UTC]",
+          "generatedOn" : "2022-03-02T08:52:34Z[UTC]",
+          "id" : "96DE9AC6-A0EF-45FE-AA33-5245D2C491AF",
+          "index" : 8981,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-03-02T08:51:52Z[UTC]",
+          "text" : "39.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-331",
+        "name" : "battery-event-9012",
+        "path" : "/test-input-trace/battery-event-9012",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-03-02T08:53:16Z[UTC]",
+          "generatedOn" : "2022-03-02T08:53:16Z[UTC]",
+          "id" : "4FF2D69D-D199-4193-AE46-E2F52C5CA2A2",
+          "index" : 9012,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-03-02T08:52:32Z[UTC]",
+          "text" : "40.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-332",
+        "name" : "battery-event-9079",
+        "path" : "/test-input-trace/battery-event-9079",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-03-02T08:54:16Z[UTC]",
+          "generatedOn" : "2022-03-02T08:54:18Z[UTC]",
+          "id" : "4E89FB0C-8A84-474C-8EFB-C50D5AE4F6E3",
+          "index" : 9079,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-03-02T08:53:16Z[UTC]",
+          "text" : "41.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-333",
+        "name" : "battery-event-9096",
+        "path" : "/test-input-trace/battery-event-9096",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-03-02T08:55:20Z[UTC]",
+          "generatedOn" : "2022-03-02T08:55:20Z[UTC]",
+          "id" : "E7961ABD-0A22-4A5B-813E-FEB44EB7E1FD",
+          "index" : 9096,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-03-02T08:54:16Z[UTC]",
+          "text" : "42.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-334",
+        "name" : "battery-event-9098",
+        "path" : "/test-input-trace/battery-event-9098",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-03-02T08:56Z[UTC]",
+          "generatedOn" : "2022-03-02T08:56:02Z[UTC]",
+          "id" : "DD0090C8-CDD7-4648-A219-3ADFC798D730",
+          "index" : 9098,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-03-02T08:55:20Z[UTC]",
+          "text" : "43.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-335",
+        "name" : "battery-event-9099",
+        "path" : "/test-input-trace/battery-event-9099",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-03-02T08:57:04Z[UTC]",
+          "generatedOn" : "2022-03-02T08:57:04Z[UTC]",
+          "id" : "33D05AFB-270E-4FB8-9640-A5F8996B4C01",
+          "index" : 9099,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-03-02T08:56Z[UTC]",
+          "text" : "44.0"
+        }
+      }
+    },
+    {
+      "trace" : {
+        "id" : "0-336",
+        "name" : "battery-event-9100",
+        "path" : "/test-input-trace/battery-event-9100",
+        "event" : {
+          "misc" : {
+            "gmtoffset" : "1"
+          },
+          "endedOn" : "2022-03-02T08:58:04Z[UTC]",
+          "generatedOn" : "2022-03-02T08:58:06Z[UTC]",
+          "id" : "35E6AAD0-71B3-46DC-A451-CBFEFD96071C",
+          "index" : 9100,
+          "source" : "/device/batteryPercentage",
+          "startedOn" : "2022-03-02T08:57:04Z[UTC]",
+          "text" : "45.0"
+        }
+      }
+    }
+  ]
+}
