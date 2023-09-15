@@ -1,30 +1,39 @@
+# IOS knowledgeC.db battery events plugin
+
 This repository is the solution to the [Hansken.io 2023](https://www.hansken.nl/latest/events/2023/09/20/hansken.io-2023) workshop
  "Extraction Plugin Walkthrough"
 
-
-# Hansken Extraction Plugin skeleton for Python based on version 0.6.3
-
-This repository contains a template for a Hansken extraction plugin written in Python.
-This template is a minimal but complete example of a plugin implementation, including all required build steps.
-You can simply clone this template plugin and start your implementation from here.
-
-The [Hansken Extraction Plugins for plugin developers documentation](https://netherlandsforensicinstitute.github.io/hansken-extraction-plugin-sdk-documentation/latest/)
- contains further information on how to [get started](https://netherlandsforensicinstitute.github.io/hansken-extraction-plugin-sdk-documentation/latest/dev/python/getting_started.html).
+To get started with a new plugin:
+* Read the [extraction plugin SDK documentation](https://netherlandsforensicinstitute.github.io/hansken-extraction-plugin-sdk-documentation/latest/)
+* Find the [Python plugin template](https://github.com/NetherlandsForensicInstitute/hansken-extraction-plugin-template-python)
 
 
-To transform this skeleton in your plugin your may want to:
+## Plugin card
 
-* Update the plugin info in [`plugin.py`](plugin.py)
-* Create test input data in the folder [`testdata/input`](testdata/input)
-  (refer to the SDK manual for more details on how to define test data)
-* Implement your plugin `process()` logic in [`plugin.py`](plugin.py)
-* Add your plugin dependencies to [`requirements.in`](requirements.in)
-  and regenerate `requirements.txt` by calling `tox -e upgrade`
-* Add any system dependencies to the [`Dockerfile`](Dockerfile)
-* (Re)generate your expected test result data with `tox -e regenerate`
-* Verify your expected test result data in [`testdata/result`](testdata/result)
-* Update this `README.md`
-* Publish your plugin to the Hansken community!
+| Part 1                      |                                                                                                        |
+|-----------------------------|--------------------------------------------------------------------------------------------------------|
+| Validation report           | Not available                                                                                          |
+| Code quality level          | Dev ready                                                                                              |
+| External dependencies       | n/a                                                                                                    |
+| Test results                | Test data from Crystal Clear demo case, results are present in plugin, but were not manually validated |
+| **Part 2**                  |                                                                                                        |
+| Plugin name and version     | hansken.org/extract/ios/battery-level                                                                  |
+| release notes               | n/a                                                                                                    |
+| creator                     | NFI; [Remco](mailto:remco@holmes.nl)                                                                   |
+| matcher                     | file.name=knowledgeC.db AND $data.fileType=\'SQLite 3\'                                                |
+| overview of data/metadata   | Reads data, marks knowledgeC.db as `eventLog`, and creates child traces of type `event`                |
+| applied algorithms          | n/a                                                                                                    |
+| Available reference data    | Included as test data                                                                                  |
+| **Part 3**                  |                                                                                                        |
+| Intended use                | Hansken.io 2023 plugin walkthrough                                                                     |
+| Ethical considerations      | t.b.d.                                                                                                 |
+| Caveats                     | The results are far from perfect                                                                       |
+| Recommendations             | DO NOT USE THIS PLUGIN IN AN ACTUAL CASE!                                                              |
+
+_(end of Hansken plugin card)_
+
+
+## For developers
 
 Tox commands that may be useful:
 * `tox`: runs your tests
